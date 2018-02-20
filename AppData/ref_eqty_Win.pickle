@@ -1,0 +1,6009 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'_metadata'
+p6
+(lp7
+sS'_typ'
+p8
+S'dataframe'
+p9
+sS'_data'
+p10
+g0
+(cpandas.core.internals
+BlockManager
+p11
+g2
+Ntp12
+Rp13
+((lp14
+cpandas.indexes.base
+_new_Index
+p15
+(cpandas.indexes.base
+Index
+p16
+(dp17
+S'data'
+p18
+cnumpy.core.multiarray
+_reconstruct
+p19
+(cnumpy
+ndarray
+p20
+(I0
+tp21
+S'b'
+p22
+tp23
+Rp24
+(I1
+(L4L
+tp25
+cnumpy
+dtype
+p26
+(S'O8'
+p27
+I0
+I1
+tp28
+Rp29
+(I3
+S'|'
+p30
+NNNI-1
+I-1
+I63
+tp31
+bI00
+(lp32
+S'Ticker'
+p33
+aS'GICS_SECTOR_NAME'
+p34
+aS'GICS_INDUSTRY_NAME'
+p35
+aS'COUNTRY_FULL_NAME'
+p36
+atp37
+bsS'name'
+p38
+Nstp39
+Rp40
+ag15
+(g16
+(dp41
+g18
+g19
+(g20
+(I0
+tp42
+g22
+tp43
+Rp44
+(I1
+(L955L
+tp45
+g29
+I00
+(lp46
+S'0876218D LN Equity'
+p47
+aS'1043154Q LN Equity'
+p48
+aS'1294047D SS Equity'
+p49
+aS'1340426D GY Equity'
+p50
+aS'1372685D IM Equity'
+p51
+aS'1448841D LN Equity'
+p52
+aS'1COV GY Equity'
+p53
+aS'3123739Q LN Equity'
+p54
+aS'3465593Q SQ Equity'
+p55
+aS'3572335Q LN Equity'
+p56
+aS'3577044Z NA Equity'
+p57
+aS'3593258Q SM Equity'
+p58
+aS'63DU GY Equity'
+p59
+aS'795722Z SS Equity'
+p60
+aS'8221961Q DC Equity'
+p61
+aS'9408593Q LN Equity'
+p62
+aS'968382Q SQ Equity'
+p63
+aS'9876555Z NO Equity'
+p64
+aS'A2A IM Equity'
+p65
+aS'A3M SQ Equity'
+p66
+aS'AAL LN Equity'
+p67
+aS'AB/ LN Equity'
+p68
+aS'ABBN SE Equity'
+p69
+aS'ABBN SW Equity'
+p70
+aS'ABE SQ Equity'
+p71
+aS'ABF LN Equity'
+p72
+aS'ABI BB Equity'
+p73
+aS'ABN NA Equity'
+p74
+aS'ABP LN Equity'
+p75
+aS'AC FP Equity'
+p76
+aS'ACA FP Equity'
+p77
+aS'ACE IM Equity'
+p78
+aS'ACS SQ Equity'
+p79
+aS'ACX SQ Equity'
+p80
+aS'AD NA Equity'
+p81
+aS'ADEN SE Equity'
+p82
+aS'ADEN SW Equity'
+p83
+aS'ADM LN Equity'
+p84
+aS'ADN LN Equity'
+p85
+aS'ADP FP Equity'
+p86
+aS'ADS GY Equity'
+p87
+aS'AENA SQ Equity'
+p88
+aS'AER UN Equity'
+p89
+aS'AF FP Equity'
+p90
+aS'AGFB BB Equity'
+p91
+aS'AGK LN Equity'
+p92
+aS'AGL IM Equity'
+p93
+aS'AGN NA Equity'
+p94
+aS'AGS BB Equity'
+p95
+aS'AGS LN Equity'
+p96
+aS'AGS SQ Equity'
+p97
+aS'AHT LN Equity'
+p98
+aS'AI FP Equity'
+p99
+aS'AIBG ID Equity'
+p100
+aS'AIR FP Equity'
+p101
+aS'AKA NO Equity'
+p102
+aS'AKE FP Equity'
+p103
+aS'AKSO NO Equity'
+p104
+aS'AKZA NA Equity'
+p105
+aS'AL IM Equity'
+p106
+aS'AL/ LN Equity'
+p107
+aS'ALFA SS Equity'
+p108
+aS'ALO FP Equity'
+p109
+aS'ALPHA GA Equity'
+p110
+aS'ALS FP Equity'
+p111
+aS'ALT GY Equity'
+p112
+aS'ALT SQ Equity'
+p113
+aS'ALU FP Equity'
+p114
+aS'ALV GY Equity'
+p115
+aS'AM FP Equity'
+p116
+aS'AMEAS FH Equity'
+p117
+aS'AMFW LN Equity'
+p118
+aS'AMS SQ Equity'
+p119
+aS'AMUN FP Equity'
+p120
+aS'ANA SQ Equity'
+p121
+aS'ANDR AV Equity'
+p122
+aS'ANGL ID Equity'
+p123
+aS'ANTO LN Equity'
+p124
+aS'ARM LN Equity'
+p125
+aS'ARO GY Equity'
+p126
+aS'ARR FP Equity'
+p127
+aS'ARYN SE Equity'
+p128
+aS'ARYN SW Equity'
+p129
+aS'ASC LN Equity'
+p130
+aS'ASF FP Equity'
+p131
+aS'ASML NA Equity'
+p132
+aS'ASSAB SS Equity'
+p133
+aS'ATC NA Equity'
+p134
+aS'ATCB NA Equity'
+p135
+aS'ATCOA SS Equity'
+p136
+aS'ATCOB SS Equity'
+p137
+aS'ATCT NA Equity'
+p138
+aS'ATL IM Equity'
+p139
+aS'ATLN SE Equity'
+p140
+aS'ATLN SW Equity'
+p141
+aS'ATO FP Equity'
+p142
+aS'ATRS AV Equity'
+p143
+aS'AU/ LN Equity'
+p144
+aS'AUN LN Equity'
+p145
+aS'AUTO LN Equity'
+p146
+aS'AV/ LN Equity'
+p147
+aS'AXFO SS Equity'
+p148
+aS'AZN LN Equity'
+p149
+aS'B4B GY Equity'
+p150
+aS'BA/ LN Equity'
+p151
+aS'BAA LN Equity'
+p152
+aS'BAB LN Equity'
+p153
+aS'BACA AV Equity'
+p154
+aS'BAER SE Equity'
+p155
+aS'BAER SW Equity'
+p156
+aS'BALN SE Equity'
+p157
+aS'BALN SW Equity'
+p158
+aS'BAR BB Equity'
+p159
+aS'BARC LN Equity'
+p160
+aS'BARN SE Equity'
+p161
+aS'BAS GY Equity'
+p162
+aS'BATS LN Equity'
+p163
+aS'BAYN GY Equity'
+p164
+aS'BB FP Equity'
+p165
+aS'BBA LN Equity'
+p166
+aS'BBVA SQ Equity'
+p167
+aS'BBY LN Equity'
+p168
+aS'BCP PL Equity'
+p169
+aS'BCVN SE Equity'
+p170
+aS'BDEV LN Equity'
+p171
+aS'BEI GY Equity'
+p172
+aS'BEKB BB Equity'
+p173
+aS'BEN IM Equity'
+p174
+aS'BES PL Equity'
+p175
+aS'BFI IM Equity'
+p176
+aS'BG/ LN Equity'
+p177
+aS'BGY LN Equity'
+p178
+aS'BI/ LN Equity'
+p179
+aS'BILL SS Equity'
+p180
+aS'BIM FP Equity'
+p181
+aS'BIOX GA Equity'
+p182
+aS'BIRG ID Equity'
+p183
+aS'BKG LN Equity'
+p184
+aS'BKIA SQ Equity'
+p185
+aS'BKT SQ Equity'
+p186
+aS'BKWN SE Equity'
+p187
+aS'BLND LN Equity'
+p188
+aS'BLT LN Equity'
+p189
+aS'BMPS IM Equity'
+p190
+aS'BMW GY Equity'
+p191
+aS'BMW3 GY Equity'
+p192
+aS'BN FP Equity'
+p193
+aS'BNL IM Equity'
+p194
+aS'BNP FP Equity'
+p195
+aS'BNR GY Equity'
+p196
+aS'BNZL LN Equity'
+p197
+aS'BO DC Equity'
+p198
+aS'BOB FP Equity'
+p199
+aS'BOC GA Equity'
+p200
+aS'BOC LN Equity'
+p201
+aS'BOKA NA Equity'
+p202
+aS'BOL FP Equity'
+p203
+aS'BOL SS Equity'
+p204
+aS'BOSS GY Equity'
+p205
+aS'BP IM Equity'
+p206
+aS'BP/ LN Equity'
+p207
+aS'BPB LN Equity'
+p208
+aS'BPI PL Equity'
+p209
+aS'BPTY LN Equity'
+p210
+aS'BPVN IM Equity'
+p211
+aS'BRBY LN Equity'
+p212
+aS'BRI PL Equity'
+p213
+aS'BRSN LN Equity'
+p214
+aS'BT/A LN Equity'
+p215
+aS'BUD AV Equity'
+p216
+aS'BUL IM Equity'
+p217
+aS'BVA SQ Equity'
+p218
+aS'BVI FP Equity'
+p219
+aS'BVS LN Equity'
+p220
+aS'BWIN AV Equity'
+p221
+aS'BWY LN Equity'
+p222
+aS'BXTN LN Equity'
+p223
+aS'CA FP Equity'
+p224
+aS'CABK SQ Equity'
+p225
+aS'CAP FP Equity'
+p226
+aS'CAP IM Equity'
+p227
+aS'CAP SS Equity'
+p228
+aS'CAR SS Equity'
+p229
+aS'CARLB DC Equity'
+p230
+aS'CAST SS Equity'
+p231
+aS'CBG LN Equity'
+p232
+aS'CBK GY Equity'
+p233
+aS'CBRY LN Equity'
+p234
+aS'CCE NA Equity'
+p235
+aS'CCE UN Equity'
+p236
+aS'CCH LN Equity'
+p237
+aS'CCL LN Equity'
+p238
+aS'CDI FP Equity'
+p239
+aS'CEC GY Equity'
+p240
+aS'CFR SE Equity'
+p241
+aS'CFR SW Equity'
+p242
+aS'CGCBV FH Equity'
+p243
+aS'CGG FP Equity'
+p244
+aS'CHR DC Equity'
+p245
+aS'CHTR LN Equity'
+p246
+aS'CIBN VX Equity'
+p247
+aS'CLN SE Equity'
+p248
+aS'CLN SW Equity'
+p249
+aS'CLS1 GY Equity'
+p250
+aS'CMB BB Equity'
+p251
+aS'CNA LN Equity'
+p252
+aS'CNE LN Equity'
+p253
+aS'CNHI IM Equity'
+p254
+aS'CNP FP Equity'
+p255
+aS'CO FP Equity'
+p256
+aS'COB LN Equity'
+p257
+aS'CODAN DC Equity'
+p258
+aS'COFB BB Equity'
+p259
+aS'COLOB DC Equity'
+p260
+aS'COLR BB Equity'
+p261
+aS'CON GY Equity'
+p262
+aS'CORA NA Equity'
+p263
+aS'COSMO GA Equity'
+p264
+aS'CPG LN Equity'
+p265
+aS'CPI LN Equity'
+p266
+aS'CPR IM Equity'
+p267
+aS'CPR PL Equity'
+p268
+aS'CRDA LN Equity'
+p269
+aS'CRG IM Equity'
+p270
+aS'CRH ID Equity'
+p271
+aS'CS FP Equity'
+p272
+aS'CS/ LN Equity'
+p273
+aS'CSGN SE Equity'
+p274
+aS'CSGN SW Equity'
+p275
+aS'CSHP LN Equity'
+p276
+aS'CSR LN Equity'
+p277
+aS'CSTL LN Equity'
+p278
+aS'CTEC LN Equity'
+p279
+aS'CTT LN Equity'
+p280
+aS'CW/ LN Equity'
+p281
+aS'CWC LN Equity'
+p282
+aS'CXP NA Equity'
+p283
+aS'DAI GY Equity'
+p284
+aS'DANSKE DC Equity'
+p285
+aS'DB1 GY Equity'
+p286
+aS'DB11 GY Equity'
+p287
+aS'DBK GY Equity'
+p288
+aS'DC/ LN Equity'
+p289
+aS'DCC ID Equity'
+p290
+aS'DCC LN Equity'
+p291
+aS'DCO DC Equity'
+p292
+aS'DE NA Equity'
+p293
+aS'DEC FP Equity'
+p294
+aS'DELB BB Equity'
+p295
+aS'DEXB BB Equity'
+p296
+aS'DG FP Equity'
+p297
+aS'DGE LN Equity'
+p298
+aS'DIA SQ Equity'
+p299
+aS'DIE BB Equity'
+p300
+aS'DL NA Equity'
+p301
+aS'DLAR LN Equity'
+p302
+aS'DLG LN Equity'
+p303
+aS'DMGT LN Equity'
+p304
+aS'DNB NO Equity'
+p305
+aS'DNO NO Equity'
+p306
+aS'DOU GY Equity'
+p307
+aS'DPB GY Equity'
+p308
+aS'DPW GY Equity'
+p309
+aS'DRI GY Equity'
+p310
+aS'DRTY LN Equity'
+p311
+aS'DRX LN Equity'
+p312
+aS'DSM NA Equity'
+p313
+aS'DSV DC Equity'
+p314
+aS'DSY FP Equity'
+p315
+aS'DTE GY Equity'
+p316
+aS'DUFN SE Equity'
+p317
+aS'DUFN SW Equity'
+p318
+aS'DWNI GY Equity'
+p319
+aS'DXNS LN Equity'
+p320
+aS'EBRO SQ Equity'
+p321
+aS'EBS AV Equity'
+p322
+aS'ECM LN Equity'
+p323
+aS'EDEN FP Equity'
+p324
+aS'EDF FP Equity'
+p325
+aS'EDN IM Equity'
+p326
+aS'EDP PL Equity'
+p327
+aS'EDPR PL Equity'
+p328
+aS'EEEK GA Equity'
+p329
+aS'EFGN SE Equity'
+p330
+aS'EGPW IM Equity'
+p331
+aS'EI FP Equity'
+p332
+aS'EIG LN Equity'
+p333
+aS'EKTAB SS Equity'
+p334
+aS'ELE SQ Equity'
+p335
+aS'ELEB BB Equity'
+p336
+aS'ELISA FH Equity'
+p337
+aS'ELLAKTOR GA Equity'
+p338
+aS'ELN ID Equity'
+p339
+aS'ELPE GA Equity'
+p340
+aS'ELUXB SS Equity'
+p341
+aS'EMA LN Equity'
+p342
+aS'EMG LN Equity'
+p343
+aS'EMI LN Equity'
+p344
+aS'EMSN SE Equity'
+p345
+aS'EN FP Equity'
+p346
+aS'ENEL IM Equity'
+p347
+aS'ENG SQ Equity'
+p348
+aS'ENGI FP Equity'
+p349
+aS'ENI IM Equity'
+p350
+aS'ENRC LN Equity'
+p351
+aS'ENRO SS Equity'
+p352
+aS'EO FP Equity'
+p353
+aS'EOAN GY Equity'
+p354
+aS'EPC GY Equity'
+p355
+aS'ERA FP Equity'
+p356
+aS'ERF FP Equity'
+p357
+aS'ERICB SS Equity'
+p358
+aS'ERU ID Equity'
+p359
+aS'ESSITYB SS Equity'
+p360
+aS'ESSR LN Equity'
+p361
+aS'ETE GA Equity'
+p362
+aS'ETL FP Equity'
+p363
+aS'EURN BB Equity'
+p364
+aS'EUROB GA Equity'
+p365
+aS'EVK GY Equity'
+p366
+aS'EVR LN Equity'
+p367
+aS'EXAE GA Equity'
+p368
+aS'EXL LN Equity'
+p369
+aS'EXO IM Equity'
+p370
+aS'EXP IM Equity'
+p371
+aS'EXPN LN Equity'
+p372
+aS'EZJ LN Equity'
+p373
+aS'F IM Equity'
+p374
+aS'FABG SS Equity'
+p375
+aS'FAD SQ Equity'
+p376
+aS'FCA IM Equity'
+p377
+aS'FCC SQ Equity'
+p378
+aS'FCD LN Equity'
+p379
+aS'FCO IM Equity'
+p380
+aS'FDR FP Equity'
+p381
+aS'FER SQ Equity'
+p382
+aS'FERG LN Equity'
+p383
+aS'FFGRP GA Equity'
+p384
+aS'FFY ID Equity'
+p385
+aS'FGP LN Equity'
+p386
+aS'FGR FP Equity'
+p387
+aS'FI IM Equity'
+p388
+aS'FKI LN Equity'
+p389
+aS'FLG LN Equity'
+p390
+aS'FLS DC Equity'
+p391
+aS'FLU AV Equity'
+p392
+aS'FME GY Equity'
+p393
+aS'FME3 GY Equity'
+p394
+aS'FOLLI GA Equity'
+p395
+aS'FORTUM FH Equity'
+p396
+aS'FP FP Equity'
+p397
+aS'FP/ LN Equity'
+p398
+aS'FPE3 GY Equity'
+p399
+aS'FR FP Equity'
+p400
+aS'FRA GY Equity'
+p401
+aS'FRE GY Equity'
+p402
+aS'FRE3 GY Equity'
+p403
+aS'FRES LN Equity'
+p404
+aS'FRO NO Equity'
+p405
+aS'FRO US Equity'
+p406
+aS'FUR NA Equity'
+p407
+aS'G IM Equity'
+p408
+aS'G1A GY Equity'
+p409
+aS'GALP PL Equity'
+p410
+aS'GAM SE Equity'
+p411
+aS'GAMBA SS Equity'
+p412
+aS'GAMBB SS Equity'
+p413
+aS'GAS SQ Equity'
+p414
+aS'GBF GY Equity'
+p415
+aS'GBLB BB Equity'
+p416
+aS'GCC ID Equity'
+p417
+aS'GEBN SE Equity'
+p418
+aS'GEBN SW Equity'
+p419
+aS'GEDI IM Equity'
+p420
+aS'GEN DC Equity'
+p421
+aS'GERM GA Equity'
+p422
+aS'GET FP Equity'
+p423
+aS'GETIB SS Equity'
+p424
+aS'GFC FP Equity'
+p425
+aS'GFS LN Equity'
+p426
+aS'GIVN SE Equity'
+p427
+aS'GIVN SW Equity'
+p428
+aS'GJF NO Equity'
+p429
+aS'GKN LN Equity'
+p430
+aS'GLE FP Equity'
+p431
+aS'GLEN LN Equity'
+p432
+aS'GLH LN Equity'
+p433
+aS'GN DC Equity'
+p434
+aS'GN5 ID Equity'
+p435
+aS'GNC ID Equity'
+p436
+aS'GPOR LN Equity'
+p437
+aS'GRF SQ Equity'
+p438
+aS'GSK LN Equity'
+p439
+aS'GTK IM Equity'
+p440
+aS'GTN NA Equity'
+p441
+aS'GTO FP Equity'
+p442
+aS'GTO NA Equity'
+p443
+aS'HAS LN Equity'
+p444
+aS'HBOS LN Equity'
+p445
+aS'HDD GY Equity'
+p446
+aS'HEI GY Equity'
+p447
+aS'HEIA NA Equity'
+p448
+aS'HEIO NA Equity'
+p449
+aS'HEN GY Equity'
+p450
+aS'HEN3 GY Equity'
+p451
+aS'HEXAB SS Equity'
+p452
+aS'HGM NA Equity'
+p453
+aS'HHFA GY Equity'
+p454
+aS'HIBU LN Equity'
+p455
+aS'HIK LN Equity'
+p456
+aS'HL/ LN Equity'
+p457
+aS'HMB SS Equity'
+p458
+aS'HMSO LN Equity'
+p459
+aS'HMV LN Equity'
+p460
+aS'HNR1 GY Equity'
+p461
+aS'HNS LN Equity'
+p462
+aS'HO FP Equity'
+p463
+aS'HOGAB SS Equity'
+p464
+aS'HOLMB SS Equity'
+p465
+aS'HOME LN Equity'
+p466
+aS'HOT GY Equity'
+p467
+aS'HRX GY Equity'
+p468
+aS'HSBA LN Equity'
+p469
+aS'HTO GA Equity'
+p470
+aS'HUSQB SS Equity'
+p471
+aS'HVM GY Equity'
+p472
+aS'HWDN LN Equity'
+p473
+aS'HYATT GA Equity'
+p474
+aS'IAG LN Equity'
+p475
+aS'IAG SQ Equity'
+p476
+aS'IAP LN Equity'
+p477
+aS'IAW ID Equity'
+p478
+aS'IBE SQ Equity'
+p479
+aS'IBLA SQ Equity'
+p480
+aS'IBR SQ Equity'
+p481
+aS'ICA FP Equity'
+p482
+aS'ICA SS Equity'
+p483
+aS'ICAD FP Equity'
+p484
+aS'ICI LN Equity'
+p485
+aS'IDR SQ Equity'
+p486
+aS'IEA AV Equity'
+p487
+aS'IFL IM Equity'
+p488
+aS'IFX GY Equity'
+p489
+aS'IGY GY Equity'
+p490
+aS'IHG LN Equity'
+p491
+aS'IIA AV Equity'
+p492
+aS'III LN Equity'
+p493
+aS'IL0A ID Equity'
+p494
+aS'ILD FP Equity'
+p495
+aS'IMB LN Equity'
+p496
+aS'IMI LN Equity'
+p497
+aS'INCH LN Equity'
+p498
+aS'INDUC SS Equity'
+p499
+aS'ING FP Equity'
+p500
+aS'INGA NA Equity'
+p501
+aS'INM ID Equity'
+p502
+aS'INTRK GA Equity'
+p503
+aS'INTU LN Equity'
+p504
+aS'INVEB SS Equity'
+p505
+aS'INVP LN Equity'
+p506
+aS'IOL IM Equity'
+p507
+aS'IOT LN Equity'
+p508
+aS'IPN FP Equity'
+p509
+aS'IPR LN Equity'
+p510
+aS'ISAT LN Equity'
+p511
+aS'ISP IM Equity'
+p512
+aS'ISPR IM Equity'
+p513
+aS'ISS DC Equity'
+p514
+aS'ISYS LN Equity'
+p515
+aS'IT IM Equity'
+p516
+aS'ITR IM Equity'
+p517
+aS'ITRK LN Equity'
+p518
+aS'ITV LN Equity'
+p519
+aS'ITX SQ Equity'
+p520
+aS'IVG GY Equity'
+p521
+aS'IVZ LN Equity'
+p522
+aS'JMAT LN Equity'
+p523
+aS'JMT PL Equity'
+p524
+aS'JYSK DC Equity'
+p525
+aS'KAZ LN Equity'
+p526
+aS'KBC BB Equity'
+p527
+aS'KBCA BB Equity'
+p528
+aS'KBHL DC Equity'
+p529
+aS'KCR FH Equity'
+p530
+aS'KD8 GY Equity'
+p531
+aS'KEL LN Equity'
+p532
+aS'KER FP Equity'
+p533
+aS'KESKOB FH Equity'
+p534
+aS'KGF LN Equity'
+p535
+aS'KGX GY Equity'
+p536
+aS'KID LN Equity'
+p537
+aS'KINVB SS Equity'
+p538
+aS'KLED SS Equity'
+p539
+aS'KN FP Equity'
+p540
+aS'KNEBV FH Equity'
+p541
+aS'KNIN SE Equity'
+p542
+aS'KNIN SW Equity'
+p543
+aS'KONBS FH Equity'
+p544
+aS'KPN NA Equity'
+p545
+aS'KSP ID Equity'
+p546
+aS'KUD SE Equity'
+p547
+aS'KUNN SE Equity'
+p548
+aS'KYG ID Equity'
+p549
+aS'LAND LN Equity'
+p550
+aS'LCL LN Equity'
+p551
+aS'LDO IM Equity'
+p552
+aS'LG FP Equity'
+p553
+aS'LGEN LN Equity'
+p554
+aS'LHA GY Equity'
+p555
+aS'LHN SE Equity'
+p556
+aS'LHN SW Equity'
+p557
+aS'LI FP Equity'
+p558
+aS'LIN GY Equity'
+p559
+aS'LINU GY Equity'
+p560
+aS'LISN SE Equity'
+p561
+aS'LISN SW Equity'
+p562
+aS'LISP SE Equity'
+p563
+aS'LLOY LN Equity'
+p564
+aS'LMI LN Equity'
+p565
+aS'LOCAL FP Equity'
+p566
+aS'LOG LN Equity'
+p567
+aS'LOGN SW Equity'
+p568
+aS'LONN SE Equity'
+p569
+aS'LONN SW Equity'
+p570
+aS'LOR FP Equity'
+p571
+aS'LR FP Equity'
+p572
+aS'LSE LN Equity'
+p573
+aS'LTT IM Equity'
+p574
+aS'LUN DC Equity'
+p575
+aS'LUNDB SS Equity'
+p576
+aS'LUPE SS Equity'
+p577
+aS'LUX IM Equity'
+p578
+aS'LXS GY Equity'
+p579
+aS'MAB LN Equity'
+p580
+aS'MAERSKA DC Equity'
+p581
+aS'MAERSKB DC Equity'
+p582
+aS'MAN GY Equity'
+p583
+aS'MAP SQ Equity'
+p584
+aS'MASN SE Equity'
+p585
+aS'MB IM Equity'
+p586
+aS'MC FP Equity'
+p587
+aS'MCRO LN Equity'
+p588
+aS'MDC LN Equity'
+p589
+aS'MED IM Equity'
+p590
+aS'MERL LN Equity'
+p591
+aS'METSO FH Equity'
+p592
+aS'MF FP Equity'
+p593
+aS'MGGT LN Equity'
+p594
+aS'MHG NO Equity'
+p595
+aS'MIC SS Equity'
+p596
+aS'MIG GA Equity'
+p597
+aS'MKS LN Equity'
+p598
+aS'ML FP Equity'
+p599
+aS'MLP GY Equity'
+p600
+aS'MMB FP Equity'
+p601
+aS'MMK AV Equity'
+p602
+aS'MMT FP Equity'
+p603
+aS'MN IM Equity'
+p604
+aS'MNDI LN Equity'
+p605
+aS'MOH GA Equity'
+p606
+aS'MPSAA IM Equity'
+p607
+aS'MRK GY Equity'
+p608
+aS'MRO LN Equity'
+p609
+aS'MRW LN Equity'
+p610
+aS'MS IM Equity'
+p611
+aS'MSY LN Equity'
+p612
+aS'MT NA Equity'
+p613
+aS'MTGB SS Equity'
+p614
+aS'MTP FP Equity'
+p615
+aS'MTX GY Equity'
+p616
+aS'MUV2 GY Equity'
+p617
+aS'MVC SQ Equity'
+p618
+aS'NAT BB Equity'
+p619
+aS'NDA SS Equity'
+p620
+aS'NEO FP Equity'
+p621
+aS'NESN SE Equity'
+p622
+aS'NESN SW Equity'
+p623
+aS'NESTE FH Equity'
+p624
+aS'NEUF FP Equity'
+p625
+aS'NEX LN Equity'
+p626
+aS'NG/ LN Equity'
+p627
+aS'NHH SQ Equity'
+p628
+aS'NHY NO Equity'
+p629
+aS'NISCB SS Equity'
+p630
+aS'NK FP Equity'
+p631
+aS'NKT DC Equity'
+p632
+aS'NN NA Equity'
+p633
+aS'NOBE SE Equity'
+p634
+aS'NOBI SS Equity'
+p635
+aS'NOBN SW Equity'
+p636
+aS'NOKIA FH Equity'
+p637
+aS'NOS PL Equity'
+p638
+aS'NOVN SE Equity'
+p639
+aS'NOVN SW Equity'
+p640
+aS'NOVOB DC Equity'
+p641
+aS'NRE1V FH Equity'
+p642
+aS'NSG NO Equity'
+p643
+aS'NTV IM Equity'
+p644
+aS'NUM NA Equity'
+p645
+aS'NXG LN Equity'
+p646
+aS'NXPI UW Equity'
+p647
+aS'NXT FP Equity'
+p648
+aS'NXT LN Equity'
+p649
+aS'NZYMB DC Equity'
+p650
+aS'O2D GY Equity'
+p651
+aS'OBEL BB Equity'
+p652
+aS'OCE NA Equity'
+p653
+aS'OCI NA Equity'
+p654
+aS'OCR NO Equity'
+p655
+aS'OERL SE Equity'
+p656
+aS'OLYMP GA Equity'
+p657
+aS'OME BB Equity'
+p658
+aS'OML LN Equity'
+p659
+aS'OMV AV Equity'
+p660
+aS'OMX SS Equity'
+p661
+aS'OPAP GA Equity'
+p662
+aS'OR FP Equity'
+p663
+aS'ORA FP Equity'
+p664
+aS'ORK NO Equity'
+p665
+aS'ORNBS FH Equity'
+p666
+aS'ORNBV FH Equity'
+p667
+aS'ORSTED DC Equity'
+p668
+aS'OSR GY Equity'
+p669
+aS'OUT1V FH Equity'
+p670
+aS'PAGE LN Equity'
+p671
+aS'PAH3 GY Equity'
+p672
+aS'PARG SE Equity'
+p673
+aS'PC IM Equity'
+p674
+aS'PFC LN Equity'
+p675
+aS'PFG LN Equity'
+p676
+aS'PFL LN Equity'
+p677
+aS'PGHN SE Equity'
+p678
+aS'PGHN SW Equity'
+p679
+aS'PGS NO Equity'
+p680
+aS'PHIA NA Equity'
+p681
+aS'PHR PL Equity'
+p682
+aS'PILK LN Equity'
+p683
+aS'PLT IM Equity'
+p684
+aS'PMI IM Equity'
+p685
+aS'PNDORA DC Equity'
+p686
+aS'PNL NA Equity'
+p687
+aS'PO/ LN Equity'
+p688
+aS'POH1S FH Equity'
+p689
+aS'POH1V FH Equity'
+p690
+aS'POP SQ Equity'
+p691
+aS'PPB ID Equity'
+p692
+aS'PPC GA Equity'
+p693
+aS'PROX BB Equity'
+p694
+aS'PRS NO Equity'
+p695
+aS'PRS SQ Equity'
+p696
+aS'PRU LN Equity'
+p697
+aS'PRY IM Equity'
+p698
+aS'PSM GY Equity'
+p699
+aS'PSN LN Equity'
+p700
+aS'PSON LN Equity'
+p701
+aS'PSPN SE Equity'
+p702
+aS'PST IM Equity'
+p703
+aS'PUB FP Equity'
+p704
+aS'PUB LN Equity'
+p705
+aS'PUM GY Equity'
+p706
+aS'QCE GY Equity'
+p707
+aS'QIA GY Equity'
+p708
+aS'R IM Equity'
+p709
+aS'RACE IM Equity'
+p710
+aS'RAND NA Equity'
+p711
+aS'RATOB SS Equity'
+p712
+aS'RB/ LN Equity'
+p713
+aS'RBI AV Equity'
+p714
+aS'RBS LN Equity'
+p715
+aS'RCEA NA Equity'
+p716
+aS'RCF FP Equity'
+p717
+aS'RCO FP Equity'
+p718
+aS'RDA NA Equity'
+p719
+aS'RDSA LN Equity'
+p720
+aS'RDSB LN Equity'
+p721
+aS'REC IM Equity'
+p722
+aS'REC NO Equity'
+p723
+aS'REE SQ Equity'
+p724
+aS'REL LN Equity'
+p725
+aS'REN NA Equity'
+p726
+aS'REP SQ Equity'
+p727
+aS'REX LN Equity'
+p728
+aS'RF FP Equity'
+p729
+aS'RHI AV Equity'
+p730
+aS'RHM GY Equity'
+p731
+aS'RI FP Equity'
+p732
+aS'RIEN SE Equity'
+p733
+aS'RIGN SW Equity'
+p734
+aS'RIO LN Equity'
+p735
+aS'RMC LN Equity'
+p736
+aS'RMG LN Equity'
+p737
+aS'RMS FP Equity'
+p738
+aS'RNK LN Equity'
+p739
+aS'RNO FP Equity'
+p740
+aS'ROCKB DC Equity'
+p741
+aS'ROG SE Equity'
+p742
+aS'ROG SW Equity'
+p743
+aS'RR/ LN Equity'
+p744
+aS'RRS LN Equity'
+p745
+aS'RRTL GY Equity'
+p746
+aS'RSA LN Equity'
+p747
+aS'RTO LN Equity'
+p748
+aS'RTRKS FH Equity'
+p749
+aS'RUKN VX Equity'
+p750
+aS'RWE GY Equity'
+p751
+aS'RWE3 GY Equity'
+p752
+aS'RXL FP Equity'
+p753
+aS'RYA ID Equity'
+p754
+aS'SAA1V FH Equity'
+p755
+aS'SAB LN Equity'
+p756
+aS'SAB SQ Equity'
+p757
+aS'SAF FP Equity'
+p758
+aS'SAMPO FH Equity'
+p759
+aS'SAN FP Equity'
+p760
+aS'SAN SQ Equity'
+p761
+aS'SAND SS Equity'
+p762
+aS'SAP GY Equity'
+p763
+aS'SAS SS Equity'
+p764
+aS'SBMO NA Equity'
+p765
+aS'SBRY LN Equity'
+p766
+aS'SBT LN Equity'
+p767
+aS'SCAB SS Equity'
+p768
+aS'SCH GY Equity'
+p769
+aS'SCHA NO Equity'
+p770
+aS'SCHB NO Equity'
+p771
+aS'SCHN SE Equity'
+p772
+aS'SCHP SE Equity'
+p773
+aS'SCHP SW Equity'
+p774
+aS'SCMN SE Equity'
+p775
+aS'SCMN SW Equity'
+p776
+aS'SCO FP Equity'
+p777
+aS'SCR FP Equity'
+p778
+aS'SCTN LN Equity'
+p779
+aS'SCVB SS Equity'
+p780
+aS'SCYR SQ Equity'
+p781
+aS'SDF GY Equity'
+p782
+aS'SDIA SS Equity'
+p783
+aS'SDIRB SS Equity'
+p784
+aS'SDR LN Equity'
+p785
+aS'SDRL NO Equity'
+p786
+aS'SEBA SS Equity'
+p787
+aS'SECUB SS Equity'
+p788
+aS'SEO VX Equity'
+p789
+aS'SESG FP Equity'
+p790
+aS'SEV FP Equity'
+p791
+aS'SFG DC Equity'
+p792
+aS'SFR FP Equity'
+p793
+aS'SGC LN Equity'
+p794
+aS'SGC SM Equity'
+p795
+aS'SGE LN Equity'
+p796
+aS'SGO FP Equity'
+p797
+aS'SGRE SQ Equity'
+p798
+aS'SGRO LN Equity'
+p799
+aS'SGSN SE Equity'
+p800
+aS'SGSN SW Equity'
+p801
+aS'SHA GY Equity'
+p802
+aS'SHBA SS Equity'
+p803
+aS'SHEL LN Equity'
+p804
+aS'SHP LN Equity'
+p805
+aS'SIE GY Equity'
+p806
+aS'SIG LN Equity'
+p807
+aS'SIGN SE Equity'
+p808
+aS'SIK SE Equity'
+p809
+aS'SIK SW Equity'
+p810
+aS'SK FP Equity'
+p811
+aS'SKAB SS Equity'
+p812
+aS'SKFB SS Equity'
+p813
+aS'SKG ID Equity'
+p814
+aS'SKY LN Equity'
+p815
+aS'SKYD GY Equity'
+p816
+aS'SLA LN Equity'
+p817
+aS'SLHN SE Equity'
+p818
+aS'SLHN SW Equity'
+p819
+aS'SME NO Equity'
+p820
+aS'SMIN LN Equity'
+p821
+aS'SN/ LN Equity'
+p822
+aS'SNF FP Equity'
+p823
+aS'SNI NO Equity'
+p824
+aS'SOLB BB Equity'
+p825
+aS'SON PL Equity'
+p826
+aS'SONI PL Equity'
+p827
+aS'SOON SE Equity'
+p828
+aS'SOON SW Equity'
+p829
+aS'SPD LN Equity'
+p830
+aS'SPI IM Equity'
+p831
+aS'SPM IM Equity'
+p832
+aS'SPMAXA IM Equity'
+p833
+aS'SPR GY Equity'
+p834
+aS'SPSN SE Equity'
+p835
+aS'SPSN SW Equity'
+p836
+aS'SPW LN Equity'
+p837
+aS'SR NA Equity'
+p838
+aS'SREN SE Equity'
+p839
+aS'SREN SW Equity'
+p840
+aS'SRG IM Equity'
+p841
+aS'SRP LN Equity'
+p842
+aS'SRS IM Equity'
+p843
+aS'SSABA SS Equity'
+p844
+aS'SSABB SS Equity'
+p845
+aS'SSE LN Equity'
+p846
+aS'SSL LN Equity'
+p847
+aS'STAN LN Equity'
+p848
+aS'STB NO Equity'
+p849
+aS'STERV FH Equity'
+p850
+aS'STJ LN Equity'
+p851
+aS'STL NO Equity'
+p852
+aS'STM FP Equity'
+p853
+aS'STMN SE Equity'
+p854
+aS'STR AV Equity'
+p855
+aS'SU FP Equity'
+p856
+aS'SUBC NO Equity'
+p857
+aS'SUN SE Equity'
+p858
+aS'SUN SW Equity'
+p859
+aS'SVT LN Equity'
+p860
+aS'SW FP Equity'
+p861
+aS'SWEDA SS Equity'
+p862
+aS'SWMA SS Equity'
+p863
+aS'SWVK GY Equity'
+p864
+aS'SY1 GY Equity'
+p865
+aS'SYDB DC Equity'
+p866
+aS'SYNN SE Equity'
+p867
+aS'SYNN SW Equity'
+p868
+aS'SYST VX Equity'
+p869
+aS'SZE FP Equity'
+p870
+aS'SZG GY Equity'
+p871
+aS'SZU GY Equity'
+p872
+aS'TAA NO Equity'
+p873
+aS'TAT NO Equity'
+p874
+aS'TATE LN Equity'
+p875
+aS'TCAP LN Equity'
+p876
+aS'TCG LN Equity'
+p877
+aS'TCHNR FP Equity'
+p878
+aS'TDC DC Equity'
+p879
+aS'TEC FP Equity'
+p880
+aS'TEF SQ Equity'
+p881
+aS'TEL NO Equity'
+p882
+aS'TEL2B SS Equity'
+p883
+aS'TELIA SS Equity'
+p884
+aS'TEMP GA Equity'
+p885
+aS'TEN IM Equity'
+p886
+aS'TFI FP Equity'
+p887
+aS'TGS NO Equity'
+p888
+aS'TIE1V FH Equity'
+p889
+aS'TIM IM Equity'
+p890
+aS'TIS NI Equity'
+p891
+aS'TIT IM Equity'
+p892
+aS'TITK GA Equity'
+p893
+aS'TITR IM Equity'
+p894
+aS'TKA AV Equity'
+p895
+aS'TKA GY Equity'
+p896
+aS'TL5 SQ Equity'
+p897
+aS'TLNT LN Equity'
+p898
+aS'TLOG SS Equity'
+p899
+aS'TLW LN Equity'
+p900
+aS'TME IM Equity'
+p901
+aS'TNET BB Equity'
+p902
+aS'TNI LN Equity'
+p903
+aS'TNTE NA Equity'
+p904
+aS'TOM NO Equity'
+p905
+aS'TOM2 NA Equity'
+p906
+aS'TOMK LN Equity'
+p907
+aS'TOP DC Equity'
+p908
+aS'TORMA DC Equity'
+p909
+aS'TOT ID Equity'
+p910
+aS'TPEIR GA Equity'
+p911
+aS'TPI SQ Equity'
+p912
+aS'TPK LN Equity'
+p913
+aS'TPO NO Equity'
+p914
+aS'TRELB SS Equity'
+p915
+aS'TRIL LN Equity'
+p916
+aS'TRN IM Equity'
+p917
+aS'TRYG DC Equity'
+p918
+aS'TSCO LN Equity'
+p919
+aS'TT/ LN Equity'
+p920
+aS'TUI LN Equity'
+p921
+aS'TUI1 GY Equity'
+p922
+aS'TW/ LN Equity'
+p923
+aS'UBI FP Equity'
+p924
+aS'UBI IM Equity'
+p925
+aS'UBM LN Equity'
+p926
+aS'UBSG SE Equity'
+p927
+aS'UBSG SW Equity'
+p928
+aS'UBSN SW Equity'
+p929
+aS'UCB BB Equity'
+p930
+aS'UCG IM Equity'
+p931
+aS'UG FP Equity'
+p932
+aS'UHR SE Equity'
+p933
+aS'UHR SW Equity'
+p934
+aS'UHRN SE Equity'
+p935
+aS'UHRN SW Equity'
+p936
+aS'UL FP Equity'
+p937
+aS'UL NA Equity'
+p938
+aS'ULVR LN Equity'
+p939
+aS'UMI BB Equity'
+p940
+aS'UN01 GY Equity'
+p941
+aS'UNA NA Equity'
+p942
+aS'UNF SQ Equity'
+p943
+aS'UNI IM Equity'
+p944
+aS'UNIP IM Equity'
+p945
+aS'UPM FH Equity'
+p946
+aS'UPONOR FH Equity'
+p947
+aS'US IM Equity'
+p948
+aS'UTDI GY Equity'
+p949
+aS'UU/ LN Equity'
+p950
+aS'UU/A LN Equity'
+p951
+aS'VALN SE Equity'
+p952
+aS'VAT AV Equity'
+p953
+aS'VDOR NA Equity'
+p954
+aS'VED LN Equity'
+p955
+aS'VER AV Equity'
+p956
+aS'VIE FP Equity'
+p957
+aS'VIFN SE Equity'
+p958
+aS'VIFN SW Equity'
+p959
+aS'VIG AV Equity'
+p960
+aS'VIV FP Equity'
+p961
+aS'VK FP Equity'
+p962
+aS'VNA GY Equity'
+p963
+aS'VNUA NA Equity'
+p964
+aS'VOD LN Equity'
+p965
+aS'VOE AV Equity'
+p966
+aS'VOLVA SS Equity'
+p967
+aS'VOLVB SS Equity'
+p968
+aS'VOW GY Equity'
+p969
+aS'VOW3 GY Equity'
+p970
+aS'VPK NA Equity'
+p971
+aS'VSVS LN Equity'
+p972
+aS'VWS DC Equity'
+p973
+aS'WCH GY Equity'
+p974
+aS'WDH DC Equity'
+p975
+aS'WDI GY Equity'
+p976
+aS'WEIR LN Equity'
+p977
+aS'WG/ LN Equity'
+p978
+aS'WHA NA Equity'
+p979
+aS'WIE AV Equity'
+p980
+aS'WIHL SS Equity'
+p981
+aS'WIN GY Equity'
+p982
+aS'WKL NA Equity'
+p983
+aS'WMB SS Equity'
+p984
+aS'WMH LN Equity'
+p985
+aS'WMPY LN Equity'
+p986
+aS'WPG LN Equity'
+p987
+aS'WPP LN Equity'
+p988
+aS'WRT1V FH Equity'
+p989
+aS'WTB LN Equity'
+p990
+aS'WTFU ID Equity'
+p991
+aS'XTA LN Equity'
+p992
+aS'YAR NO Equity'
+p993
+aS'YTY1V FH Equity'
+p994
+aS'ZAL GY Equity'
+p995
+aS'ZC FP Equity'
+p996
+aS'ZEL SQ Equity'
+p997
+aS'ZIGGO NA Equity'
+p998
+aS'ZOT SQ Equity'
+p999
+aS'ZURN SE Equity'
+p1000
+aS'ZURN SW Equity'
+p1001
+atp1002
+bsg38
+g33
+stp1003
+Rp1004
+a(lp1005
+g19
+(g20
+(I0
+tp1006
+g22
+tp1007
+Rp1008
+(I1
+(L4L
+L955L
+tp1009
+g29
+I00
+(lp1010
+g47
+ag48
+ag49
+ag50
+ag51
+ag52
+ag53
+ag54
+ag55
+ag56
+ag57
+ag58
+ag59
+ag60
+ag61
+ag62
+ag63
+ag64
+ag65
+ag66
+ag67
+ag68
+ag69
+ag70
+ag71
+ag72
+ag73
+ag74
+ag75
+ag76
+ag77
+ag78
+ag79
+ag80
+ag81
+ag82
+ag83
+ag84
+ag85
+ag86
+ag87
+ag88
+ag89
+ag90
+ag91
+ag92
+ag93
+ag94
+ag95
+ag96
+ag97
+ag98
+ag99
+ag100
+ag101
+ag102
+ag103
+ag104
+ag105
+ag106
+ag107
+ag108
+ag109
+ag110
+ag111
+ag112
+ag113
+ag114
+ag115
+ag116
+ag117
+ag118
+ag119
+ag120
+ag121
+ag122
+ag123
+ag124
+ag125
+ag126
+ag127
+ag128
+ag129
+ag130
+ag131
+ag132
+ag133
+ag134
+ag135
+ag136
+ag137
+ag138
+ag139
+ag140
+ag141
+ag142
+ag143
+ag144
+ag145
+ag146
+ag147
+ag148
+ag149
+ag150
+ag151
+ag152
+ag153
+ag154
+ag155
+ag156
+ag157
+ag158
+ag159
+ag160
+ag161
+ag162
+ag163
+ag164
+ag165
+ag166
+ag167
+ag168
+ag169
+ag170
+ag171
+ag172
+ag173
+ag174
+ag175
+ag176
+ag177
+ag178
+ag179
+ag180
+ag181
+ag182
+ag183
+ag184
+ag185
+ag186
+ag187
+ag188
+ag189
+ag190
+ag191
+ag192
+ag193
+ag194
+ag195
+ag196
+ag197
+ag198
+ag199
+ag200
+ag201
+ag202
+ag203
+ag204
+ag205
+ag206
+ag207
+ag208
+ag209
+ag210
+ag211
+ag212
+ag213
+ag214
+ag215
+ag216
+ag217
+ag218
+ag219
+ag220
+ag221
+ag222
+ag223
+ag224
+ag225
+ag226
+ag227
+ag228
+ag229
+ag230
+ag231
+ag232
+ag233
+ag234
+ag235
+ag236
+ag237
+ag238
+ag239
+ag240
+ag241
+ag242
+ag243
+ag244
+ag245
+ag246
+ag247
+ag248
+ag249
+ag250
+ag251
+ag252
+ag253
+ag254
+ag255
+ag256
+ag257
+ag258
+ag259
+ag260
+ag261
+ag262
+ag263
+ag264
+ag265
+ag266
+ag267
+ag268
+ag269
+ag270
+ag271
+ag272
+ag273
+ag274
+ag275
+ag276
+ag277
+ag278
+ag279
+ag280
+ag281
+ag282
+ag283
+ag284
+ag285
+ag286
+ag287
+ag288
+ag289
+ag290
+ag291
+ag292
+ag293
+ag294
+ag295
+ag296
+ag297
+ag298
+ag299
+ag300
+ag301
+ag302
+ag303
+ag304
+ag305
+ag306
+ag307
+ag308
+ag309
+ag310
+ag311
+ag312
+ag313
+ag314
+ag315
+ag316
+ag317
+ag318
+ag319
+ag320
+ag321
+ag322
+ag323
+ag324
+ag325
+ag326
+ag327
+ag328
+ag329
+ag330
+ag331
+ag332
+ag333
+ag334
+ag335
+ag336
+ag337
+ag338
+ag339
+ag340
+ag341
+ag342
+ag343
+ag344
+ag345
+ag346
+ag347
+ag348
+ag349
+ag350
+ag351
+ag352
+ag353
+ag354
+ag355
+ag356
+ag357
+ag358
+ag359
+ag360
+ag361
+ag362
+ag363
+ag364
+ag365
+ag366
+ag367
+ag368
+ag369
+ag370
+ag371
+ag372
+ag373
+ag374
+ag375
+ag376
+ag377
+ag378
+ag379
+ag380
+ag381
+ag382
+ag383
+ag384
+ag385
+ag386
+ag387
+ag388
+ag389
+ag390
+ag391
+ag392
+ag393
+ag394
+ag395
+ag396
+ag397
+ag398
+ag399
+ag400
+ag401
+ag402
+ag403
+ag404
+ag405
+ag406
+ag407
+ag408
+ag409
+ag410
+ag411
+ag412
+ag413
+ag414
+ag415
+ag416
+ag417
+ag418
+ag419
+ag420
+ag421
+ag422
+ag423
+ag424
+ag425
+ag426
+ag427
+ag428
+ag429
+ag430
+ag431
+ag432
+ag433
+ag434
+ag435
+ag436
+ag437
+ag438
+ag439
+ag440
+ag441
+ag442
+ag443
+ag444
+ag445
+ag446
+ag447
+ag448
+ag449
+ag450
+ag451
+ag452
+ag453
+ag454
+ag455
+ag456
+ag457
+ag458
+ag459
+ag460
+ag461
+ag462
+ag463
+ag464
+ag465
+ag466
+ag467
+ag468
+ag469
+ag470
+ag471
+ag472
+ag473
+ag474
+ag475
+ag476
+ag477
+ag478
+ag479
+ag480
+ag481
+ag482
+ag483
+ag484
+ag485
+ag486
+ag487
+ag488
+ag489
+ag490
+ag491
+ag492
+ag493
+ag494
+ag495
+ag496
+ag497
+ag498
+ag499
+ag500
+ag501
+ag502
+ag503
+ag504
+ag505
+ag506
+ag507
+ag508
+ag509
+ag510
+ag511
+ag512
+ag513
+ag514
+ag515
+ag516
+ag517
+ag518
+ag519
+ag520
+ag521
+ag522
+ag523
+ag524
+ag525
+ag526
+ag527
+ag528
+ag529
+ag530
+ag531
+ag532
+ag533
+ag534
+ag535
+ag536
+ag537
+ag538
+ag539
+ag540
+ag541
+ag542
+ag543
+ag544
+ag545
+ag546
+ag547
+ag548
+ag549
+ag550
+ag551
+ag552
+ag553
+ag554
+ag555
+ag556
+ag557
+ag558
+ag559
+ag560
+ag561
+ag562
+ag563
+ag564
+ag565
+ag566
+ag567
+ag568
+ag569
+ag570
+ag571
+ag572
+ag573
+ag574
+ag575
+ag576
+ag577
+ag578
+ag579
+ag580
+ag581
+ag582
+ag583
+ag584
+ag585
+ag586
+ag587
+ag588
+ag589
+ag590
+ag591
+ag592
+ag593
+ag594
+ag595
+ag596
+ag597
+ag598
+ag599
+ag600
+ag601
+ag602
+ag603
+ag604
+ag605
+ag606
+ag607
+ag608
+ag609
+ag610
+ag611
+ag612
+ag613
+ag614
+ag615
+ag616
+ag617
+ag618
+ag619
+ag620
+ag621
+ag622
+ag623
+ag624
+ag625
+ag626
+ag627
+ag628
+ag629
+ag630
+ag631
+ag632
+ag633
+ag634
+ag635
+ag636
+ag637
+ag638
+ag639
+ag640
+ag641
+ag642
+ag643
+ag644
+ag645
+ag646
+ag647
+ag648
+ag649
+ag650
+ag651
+ag652
+ag653
+ag654
+ag655
+ag656
+ag657
+ag658
+ag659
+ag660
+ag661
+ag662
+ag663
+ag664
+ag665
+ag666
+ag667
+ag668
+ag669
+ag670
+ag671
+ag672
+ag673
+ag674
+ag675
+ag676
+ag677
+ag678
+ag679
+ag680
+ag681
+ag682
+ag683
+ag684
+ag685
+ag686
+ag687
+ag688
+ag689
+ag690
+ag691
+ag692
+ag693
+ag694
+ag695
+ag696
+ag697
+ag698
+ag699
+ag700
+ag701
+ag702
+ag703
+ag704
+ag705
+ag706
+ag707
+ag708
+ag709
+ag710
+ag711
+ag712
+ag713
+ag714
+ag715
+ag716
+ag717
+ag718
+ag719
+ag720
+ag721
+ag722
+ag723
+ag724
+ag725
+ag726
+ag727
+ag728
+ag729
+ag730
+ag731
+ag732
+ag733
+ag734
+ag735
+ag736
+ag737
+ag738
+ag739
+ag740
+ag741
+ag742
+ag743
+ag744
+ag745
+ag746
+ag747
+ag748
+ag749
+ag750
+ag751
+ag752
+ag753
+ag754
+ag755
+ag756
+ag757
+ag758
+ag759
+ag760
+ag761
+ag762
+ag763
+ag764
+ag765
+ag766
+ag767
+ag768
+ag769
+ag770
+ag771
+ag772
+ag773
+ag774
+ag775
+ag776
+ag777
+ag778
+ag779
+ag780
+ag781
+ag782
+ag783
+ag784
+ag785
+ag786
+ag787
+ag788
+ag789
+ag790
+ag791
+ag792
+ag793
+ag794
+ag795
+ag796
+ag797
+ag798
+ag799
+ag800
+ag801
+ag802
+ag803
+ag804
+ag805
+ag806
+ag807
+ag808
+ag809
+ag810
+ag811
+ag812
+ag813
+ag814
+ag815
+ag816
+ag817
+ag818
+ag819
+ag820
+ag821
+ag822
+ag823
+ag824
+ag825
+ag826
+ag827
+ag828
+ag829
+ag830
+ag831
+ag832
+ag833
+ag834
+ag835
+ag836
+ag837
+ag838
+ag839
+ag840
+ag841
+ag842
+ag843
+ag844
+ag845
+ag846
+ag847
+ag848
+ag849
+ag850
+ag851
+ag852
+ag853
+ag854
+ag855
+ag856
+ag857
+ag858
+ag859
+ag860
+ag861
+ag862
+ag863
+ag864
+ag865
+ag866
+ag867
+ag868
+ag869
+ag870
+ag871
+ag872
+ag873
+ag874
+ag875
+ag876
+ag877
+ag878
+ag879
+ag880
+ag881
+ag882
+ag883
+ag884
+ag885
+ag886
+ag887
+ag888
+ag889
+ag890
+ag891
+ag892
+ag893
+ag894
+ag895
+ag896
+ag897
+ag898
+ag899
+ag900
+ag901
+ag902
+ag903
+ag904
+ag905
+ag906
+ag907
+ag908
+ag909
+ag910
+ag911
+ag912
+ag913
+ag914
+ag915
+ag916
+ag917
+ag918
+ag919
+ag920
+ag921
+ag922
+ag923
+ag924
+ag925
+ag926
+ag927
+ag928
+ag929
+ag930
+ag931
+ag932
+ag933
+ag934
+ag935
+ag936
+ag937
+ag938
+ag939
+ag940
+ag941
+ag942
+ag943
+ag944
+ag945
+ag946
+ag947
+ag948
+ag949
+ag950
+ag951
+ag952
+ag953
+ag954
+ag955
+ag956
+ag957
+ag958
+ag959
+ag960
+ag961
+ag962
+ag963
+ag964
+ag965
+ag966
+ag967
+ag968
+ag969
+ag970
+ag971
+ag972
+ag973
+ag974
+ag975
+ag976
+ag977
+ag978
+ag979
+ag980
+ag981
+ag982
+ag983
+ag984
+ag985
+ag986
+ag987
+ag988
+ag989
+ag990
+ag991
+ag992
+ag993
+ag994
+ag995
+ag996
+ag997
+ag998
+ag999
+ag1000
+ag1001
+aFnan
+aFnan
+aS'Consommation de base'
+p1011
+aFnan
+aS'Energie'
+p1012
+aS'Industrie'
+p1013
+aS'Materiaux'
+p1014
+aFnan
+aFnan
+aFnan
+aFnan
+aFnan
+aS'Finance'
+p1015
+aFnan
+aFnan
+aFnan
+aFnan
+aFnan
+aS'Services aux collectivites'
+p1016
+aS'Consommation discretionnaire'
+p1017
+ag1014
+aFnan
+ag1013
+ag1013
+ag1013
+ag1011
+ag1011
+ag1015
+aFnan
+ag1017
+ag1015
+ag1016
+ag1013
+ag1014
+ag1011
+ag1013
+ag1013
+ag1015
+ag1015
+ag1013
+ag1017
+ag1013
+ag1013
+ag1013
+aS'Soins de sante'
+p1018
+ag1013
+ag1017
+ag1015
+ag1015
+aFnan
+aFnan
+ag1013
+ag1014
+ag1015
+ag1013
+ag1012
+ag1014
+ag1012
+ag1014
+aFnan
+aFnan
+ag1013
+ag1013
+ag1015
+ag1013
+aFnan
+aFnan
+aS"Technologies de l'information"
+p1019
+ag1015
+ag1013
+ag1017
+ag1012
+ag1019
+ag1015
+ag1016
+ag1013
+aFnan
+ag1014
+ag1019
+ag1017
+aFnan
+ag1011
+ag1011
+ag1017
+aFnan
+ag1019
+ag1013
+ag1017
+ag1017
+ag1013
+ag1013
+ag1017
+ag1013
+ag1018
+ag1018
+ag1019
+aS'Immobilier'
+p1020
+aFnan
+aFnan
+ag1019
+ag1015
+ag1011
+ag1018
+ag1011
+ag1013
+aFnan
+ag1013
+aFnan
+ag1015
+ag1015
+ag1015
+ag1015
+ag1019
+ag1015
+ag1011
+ag1014
+ag1011
+ag1018
+ag1013
+ag1013
+ag1015
+ag1013
+ag1015
+ag1015
+ag1017
+ag1011
+ag1014
+aFnan
+ag1015
+aFnan
+ag1012
+aFnan
+aFnan
+ag1014
+ag1018
+aFnan
+ag1015
+ag1017
+ag1015
+ag1015
+aFnan
+ag1020
+ag1014
+ag1015
+ag1017
+ag1017
+ag1011
+aFnan
+ag1015
+ag1013
+ag1013
+ag1017
+aFnan
+ag1015
+aFnan
+ag1013
+ag1013
+ag1014
+ag1017
+ag1015
+ag1012
+aFnan
+ag1015
+ag1017
+aFnan
+ag1017
+aFnan
+ag1013
+aS'Services de telecommunicatio'
+p1021
+aFnan
+aFnan
+aFnan
+ag1013
+ag1017
+aFnan
+ag1017
+aFnan
+ag1011
+ag1015
+ag1019
+aFnan
+aFnan
+aFnan
+ag1011
+ag1020
+ag1015
+ag1015
+aFnan
+ag1011
+ag1011
+ag1011
+ag1017
+ag1017
+ag1017
+ag1017
+ag1017
+ag1013
+ag1012
+ag1014
+aFnan
+aFnan
+ag1014
+ag1014
+ag1018
+ag1013
+ag1016
+ag1012
+ag1013
+ag1015
+ag1011
+ag1013
+aFnan
+ag1020
+ag1018
+ag1011
+ag1017
+ag1020
+aFnan
+ag1017
+ag1013
+ag1011
+ag1014
+ag1014
+ag1015
+ag1014
+ag1015
+aFnan
+ag1015
+ag1015
+aFnan
+ag1019
+aFnan
+ag1018
+aFnan
+aFnan
+ag1021
+aFnan
+ag1017
+ag1015
+ag1015
+ag1015
+ag1015
+ag1017
+ag1013
+ag1013
+aFnan
+ag1011
+ag1017
+ag1011
+ag1015
+ag1013
+ag1011
+ag1011
+ag1017
+ag1015
+ag1013
+ag1015
+ag1017
+ag1015
+ag1012
+aFnan
+ag1015
+ag1013
+ag1021
+ag1017
+ag1016
+ag1014
+ag1013
+ag1019
+ag1021
+ag1017
+ag1017
+ag1020
+ag1017
+ag1011
+ag1015
+ag1019
+ag1013
+ag1016
+ag1016
+ag1016
+ag1016
+aFnan
+ag1015
+ag1016
+ag1018
+ag1017
+ag1018
+ag1016
+aFnan
+ag1021
+ag1013
+aFnan
+ag1012
+ag1017
+aFnan
+ag1015
+aFnan
+ag1014
+ag1013
+ag1016
+ag1012
+ag1016
+ag1012
+ag1014
+ag1017
+ag1017
+ag1016
+aFnan
+ag1014
+ag1018
+ag1019
+aFnan
+ag1011
+aFnan
+ag1015
+ag1017
+ag1012
+ag1015
+ag1014
+ag1014
+ag1015
+aFnan
+ag1015
+ag1015
+ag1013
+ag1013
+ag1017
+ag1020
+aFnan
+ag1017
+ag1013
+aFnan
+aFnan
+ag1020
+ag1013
+ag1013
+ag1017
+ag1011
+ag1013
+ag1013
+aFnan
+aFnan
+ag1015
+ag1013
+ag1013
+ag1018
+ag1018
+aFnan
+ag1016
+ag1012
+aFnan
+ag1014
+ag1017
+ag1013
+ag1018
+ag1018
+ag1014
+ag1012
+ag1012
+ag1012
+ag1015
+ag1013
+ag1012
+ag1015
+aFnan
+aFnan
+ag1016
+ag1013
+ag1015
+ag1011
+ag1013
+ag1013
+ag1017
+ag1018
+aFnan
+ag1013
+ag1018
+ag1020
+ag1013
+ag1014
+ag1014
+ag1015
+ag1017
+ag1015
+ag1014
+aFnan
+ag1018
+ag1013
+ag1011
+ag1020
+ag1018
+ag1018
+ag1017
+aFnan
+ag1019
+ag1019
+ag1013
+aFnan
+ag1013
+ag1014
+ag1011
+ag1011
+ag1011
+ag1011
+ag1019
+aFnan
+ag1013
+aFnan
+ag1018
+ag1015
+ag1017
+ag1020
+aFnan
+ag1015
+aFnan
+ag1013
+aFnan
+ag1014
+ag1017
+ag1013
+aFnan
+ag1015
+ag1021
+ag1017
+aFnan
+ag1013
+aFnan
+ag1013
+ag1013
+ag1015
+aFnan
+ag1016
+aFnan
+aFnan
+aFnan
+ag1011
+ag1020
+aFnan
+ag1019
+aFnan
+aFnan
+ag1019
+ag1016
+ag1017
+ag1020
+ag1015
+ag1015
+ag1021
+ag1011
+ag1013
+ag1017
+ag1015
+ag1019
+ag1015
+ag1017
+ag1013
+ag1020
+ag1015
+ag1015
+ag1019
+aFnan
+ag1018
+aFnan
+ag1021
+ag1015
+ag1015
+ag1013
+aFnan
+ag1014
+ag1014
+ag1013
+ag1017
+ag1017
+ag1020
+ag1015
+ag1014
+ag1011
+ag1015
+ag1014
+ag1015
+ag1015
+ag1013
+ag1013
+ag1017
+aFnan
+ag1017
+ag1011
+ag1017
+ag1013
+aFnan
+ag1015
+ag1020
+ag1015
+ag1013
+ag1013
+ag1013
+aFnan
+ag1021
+ag1013
+ag1019
+ag1017
+ag1011
+ag1020
+ag1017
+ag1013
+ag1014
+ag1015
+ag1013
+ag1014
+ag1014
+ag1020
+ag1014
+ag1014
+ag1011
+ag1011
+ag1011
+ag1015
+ag1014
+ag1017
+aFnan
+ag1019
+ag1018
+ag1018
+aFnan
+ag1013
+ag1015
+aFnan
+ag1018
+ag1015
+ag1012
+ag1017
+ag1014
+ag1017
+ag1013
+ag1013
+ag1013
+ag1015
+ag1019
+ag1015
+ag1017
+ag1019
+ag1018
+ag1015
+ag1017
+ag1013
+ag1015
+ag1013
+ag1011
+ag1021
+ag1015
+ag1017
+ag1017
+ag1015
+ag1017
+ag1014
+ag1017
+ag1017
+ag1014
+ag1012
+ag1015
+ag1018
+ag1013
+ag1011
+ag1017
+aFnan
+ag1014
+ag1017
+ag1014
+ag1013
+ag1015
+aFnan
+aFnan
+ag1015
+ag1019
+ag1011
+ag1011
+ag1012
+aFnan
+ag1013
+ag1016
+ag1017
+ag1014
+aFnan
+ag1014
+ag1013
+ag1015
+ag1018
+ag1017
+ag1018
+ag1019
+ag1017
+ag1018
+ag1018
+ag1018
+ag1017
+ag1014
+aFnan
+aFnan
+ag1015
+ag1019
+ag1015
+ag1017
+ag1014
+ag1021
+ag1021
+aFnan
+ag1014
+aFnan
+ag1013
+ag1013
+aFnan
+ag1015
+ag1012
+aFnan
+ag1017
+ag1011
+ag1021
+ag1011
+aFnan
+ag1018
+ag1016
+ag1013
+ag1014
+ag1013
+ag1017
+ag1015
+ag1017
+ag1012
+ag1015
+ag1019
+ag1015
+ag1015
+ag1012
+ag1018
+ag1021
+aFnan
+ag1011
+ag1015
+ag1017
+ag1013
+aFnan
+ag1015
+aFnan
+ag1015
+ag1017
+ag1016
+ag1021
+ag1012
+ag1017
+ag1015
+ag1013
+ag1017
+ag1017
+ag1017
+ag1020
+ag1015
+ag1017
+ag1017
+ag1017
+ag1019
+ag1018
+aFnan
+ag1017
+ag1013
+ag1015
+ag1011
+ag1015
+ag1015
+aFnan
+ag1013
+ag1011
+aFnan
+ag1012
+ag1012
+ag1018
+ag1019
+ag1016
+ag1013
+ag1013
+ag1012
+ag1014
+ag1015
+ag1014
+ag1013
+ag1011
+ag1013
+ag1012
+ag1014
+aFnan
+ag1013
+ag1017
+ag1017
+ag1017
+ag1013
+ag1018
+ag1018
+ag1013
+ag1014
+ag1017
+ag1015
+ag1013
+ag1014
+aFnan
+ag1016
+ag1016
+ag1013
+ag1013
+ag1017
+ag1011
+ag1015
+ag1013
+ag1015
+ag1018
+ag1015
+ag1013
+ag1019
+ag1013
+ag1012
+ag1011
+aFnan
+ag1014
+aFnan
+ag1017
+ag1017
+ag1013
+ag1013
+ag1013
+ag1021
+ag1021
+ag1015
+ag1015
+aFnan
+ag1013
+ag1013
+ag1014
+aFnan
+aFnan
+ag1015
+ag1012
+ag1015
+ag1013
+aFnan
+ag1017
+ag1016
+ag1013
+ag1021
+ag1013
+aFnan
+ag1019
+ag1013
+ag1013
+ag1020
+ag1013
+ag1013
+ag1017
+ag1015
+aFnan
+ag1018
+ag1013
+ag1017
+aFnan
+ag1014
+ag1014
+ag1017
+ag1013
+ag1013
+ag1014
+ag1017
+ag1017
+ag1015
+ag1015
+ag1015
+aFnan
+ag1013
+ag1018
+aFnan
+ag1013
+ag1014
+ag1011
+ag1014
+ag1018
+ag1018
+ag1017
+aFnan
+ag1012
+ag1012
+ag1017
+ag1020
+ag1020
+aFnan
+aFnan
+ag1015
+ag1015
+ag1012
+ag1013
+ag1012
+ag1014
+ag1014
+ag1016
+aFnan
+ag1015
+ag1015
+ag1014
+ag1015
+ag1012
+ag1019
+ag1018
+ag1013
+ag1013
+ag1012
+ag1013
+ag1013
+ag1016
+ag1017
+ag1015
+ag1011
+ag1019
+ag1014
+ag1015
+ag1014
+ag1014
+aFnan
+aFnan
+ag1014
+ag1011
+aFnan
+aFnan
+ag1011
+ag1015
+ag1017
+ag1017
+ag1021
+ag1012
+ag1021
+ag1021
+ag1021
+ag1021
+aFnan
+ag1012
+ag1017
+ag1012
+ag1019
+aFnan
+ag1021
+ag1021
+ag1014
+ag1021
+ag1021
+ag1014
+ag1017
+aFnan
+aFnan
+ag1012
+ag1017
+ag1017
+ag1017
+ag1013
+ag1013
+ag1017
+aFnan
+ag1015
+ag1012
+ag1011
+ag1015
+aFnan
+ag1013
+aFnan
+ag1013
+aFnan
+ag1016
+ag1015
+ag1011
+ag1017
+ag1017
+ag1017
+ag1017
+ag1019
+ag1015
+ag1017
+ag1015
+ag1015
+ag1015
+ag1018
+ag1015
+ag1017
+ag1017
+ag1017
+ag1017
+ag1017
+ag1020
+ag1020
+ag1011
+ag1014
+ag1016
+ag1011
+aFnan
+ag1015
+ag1015
+ag1014
+ag1013
+ag1015
+ag1019
+ag1016
+ag1016
+ag1017
+aFnan
+aFnan
+ag1014
+ag1016
+ag1016
+ag1018
+ag1018
+ag1015
+ag1017
+ag1012
+ag1020
+aFnan
+ag1021
+ag1014
+ag1013
+ag1013
+ag1017
+ag1017
+ag1012
+ag1013
+ag1013
+ag1014
+ag1018
+ag1019
+ag1013
+ag1012
+ag1020
+ag1014
+ag1020
+ag1019
+ag1013
+aFnan
+ag1017
+aFnan
+ag1019
+ag1017
+ag1013
+ag1017
+aFnan
+aFnan
+ag1014
+ag1013
+ag1017
+ag1013
+ag1018
+ag1021
+ag1013
+ag1015
+ag1015
+aFnan
+aFnan
+aS'Produits de soin personnel'
+p1022
+aFnan
+aS'Equipements et services dedi'
+p1023
+aS'Services et fournitures commer'
+p1024
+aS'Produits chimiques'
+p1025
+aFnan
+aFnan
+aFnan
+aFnan
+aFnan
+aS'Marches de capitaux'
+p1026
+aFnan
+aFnan
+aFnan
+aFnan
+aFnan
+aS'Compagnies aux activites dive'
+p1027
+aS'Medias'
+p1028
+aS'Metaux et mines'
+p1029
+aFnan
+aS'Materiel electrique'
+p1030
+ag1030
+aS'Infrastructure de transports'
+p1031
+aS'Produits alimentaires'
+p1032
+aS'Boissons'
+p1033
+aS'Banques'
+p1034
+aFnan
+aS'H\xc3\xb4tels, restaurants et loisir'
+p1035
+ag1034
+ag1027
+aS'Construction et ingenierie'
+p1036
+ag1029
+aS'Vente au detail de produits a'
+p1037
+aS'Services professionnels'
+p1038
+ag1038
+aS'Assurance'
+p1039
+ag1026
+ag1031
+aS'Textiles, habillement et produ'
+p1040
+ag1031
+aS'Societes commerciales et dis'
+p1041
+aS'Compagnies aeriennes'
+p1042
+aS'Technologies des soins de sant'
+p1043
+ag1024
+ag1035
+ag1039
+ag1039
+aFnan
+aFnan
+ag1041
+ag1025
+ag1034
+aS'Aerospatiale et defense'
+p1044
+ag1023
+ag1025
+ag1023
+ag1025
+aFnan
+aFnan
+aS'Machinerie'
+p1045
+ag1045
+ag1034
+ag1045
+aFnan
+aFnan
+aS'Equipement de communication'
+p1046
+ag1039
+ag1044
+aS'Produits de loisirs'
+p1047
+ag1023
+aS'Services IT'
+p1048
+ag1026
+aS'Electricite'
+p1049
+ag1045
+aFnan
+ag1029
+aS'Semi-conducteurs et equipemen'
+p1050
+aS"Vente au detail d'articles di"
+p1051
+aFnan
+ag1032
+ag1032
+aS'Vente au detail Internet et m'
+p1052
+aFnan
+ag1050
+aS"Produits pour l'industrie du b"
+p1053
+ag1028
+ag1028
+ag1045
+ag1045
+ag1028
+ag1031
+aS'Biotechnologie'
+p1054
+ag1054
+ag1048
+aS'Developpement et gestion des'
+p1055
+aFnan
+aFnan
+aS"Logiciels et services d'Intern"
+p1056
+ag1039
+ag1037
+aS'Produits pharmaceutiques'
+p1057
+ag1037
+ag1044
+aFnan
+ag1024
+aFnan
+ag1026
+ag1026
+ag1039
+ag1039
+aS'Equipement, instruments et com'
+p1058
+ag1034
+ag1032
+ag1025
+aS'Tabac'
+p1059
+ag1057
+ag1024
+ag1031
+ag1034
+ag1036
+ag1034
+ag1034
+aS'Biens menagers durables'
+p1060
+ag1022
+ag1029
+aFnan
+ag1034
+aFnan
+aS'Petrole, gaz et combustibles'
+p1061
+aFnan
+aFnan
+aS'Emballages et conteneurs'
+p1062
+aS'Fournitures et equipements m'
+p1063
+aFnan
+ag1034
+ag1060
+ag1034
+ag1034
+aFnan
+aS"Societe d'investissement imm"
+p1064
+ag1029
+ag1034
+aS'Automobiles'
+p1065
+ag1065
+ag1032
+aFnan
+ag1034
+ag1041
+ag1041
+ag1060
+aFnan
+ag1034
+aFnan
+ag1036
+aS'Fret aerien et logistique'
+p1066
+ag1029
+ag1040
+ag1034
+ag1061
+aFnan
+ag1034
+ag1035
+aFnan
+ag1040
+aFnan
+ag1024
+aS'Services de telecommunicatio'
+p1067
+aFnan
+aFnan
+aFnan
+ag1038
+ag1060
+aFnan
+ag1060
+aFnan
+ag1037
+ag1034
+ag1048
+aFnan
+aFnan
+aFnan
+ag1033
+ag1055
+ag1026
+ag1034
+aFnan
+ag1033
+ag1033
+ag1033
+ag1035
+ag1040
+aS'Vente au detail specialisee'
+p1068
+ag1040
+ag1040
+ag1045
+ag1023
+ag1025
+aFnan
+aFnan
+ag1025
+ag1025
+aS'Fournisseurs de produits de sa'
+p1069
+aS'Marine'
+p1070
+ag1027
+ag1061
+ag1045
+ag1039
+ag1037
+ag1044
+aFnan
+ag1064
+ag1063
+ag1037
+aS'Composants automobiles'
+p1071
+ag1064
+aFnan
+ag1035
+ag1038
+ag1033
+aS'Materiaux de construction'
+p1072
+ag1025
+ag1034
+ag1072
+ag1039
+aFnan
+ag1026
+ag1026
+aFnan
+ag1050
+aFnan
+ag1063
+aFnan
+aFnan
+ag1067
+aFnan
+ag1065
+ag1034
+ag1026
+ag1026
+ag1026
+ag1068
+aS'Conglomerats industriels'
+p1073
+ag1073
+aFnan
+ag1032
+ag1028
+ag1037
+ag1034
+ag1036
+ag1033
+ag1037
+aS'Distributeurs'
+p1074
+ag1039
+ag1024
+ag1039
+ag1028
+ag1034
+ag1061
+aFnan
+ag1034
+ag1066
+ag1067
+ag1068
+aS"Producteurs independants d'e"
+p1075
+ag1025
+aS'Transport routier et ferroviai'
+p1076
+aS'Logiciels'
+p1077
+ag1067
+ag1068
+ag1068
+ag1055
+ag1068
+ag1032
+ag1034
+ag1058
+ag1024
+ag1049
+ag1075
+ag1049
+ag1075
+aFnan
+ag1026
+ag1075
+ag1063
+ag1035
+ag1063
+ag1049
+aFnan
+ag1067
+ag1036
+aFnan
+ag1061
+ag1060
+aFnan
+ag1026
+aFnan
+ag1025
+ag1036
+ag1049
+ag1061
+ag1027
+ag1061
+ag1029
+ag1028
+ag1071
+ag1027
+aFnan
+ag1029
+aS'Outils et services appliques'
+p1078
+ag1046
+aFnan
+aS'Produits domestiques'
+p1079
+aFnan
+ag1034
+ag1028
+ag1061
+ag1034
+ag1025
+ag1029
+ag1026
+aFnan
+aS'Services financiers diversifi'
+p1080
+ag1080
+ag1038
+ag1042
+ag1065
+ag1055
+aFnan
+ag1065
+ag1036
+aFnan
+aFnan
+ag1064
+ag1036
+ag1041
+ag1068
+ag1037
+ag1076
+ag1036
+aFnan
+aFnan
+ag1039
+ag1036
+ag1031
+ag1069
+ag1069
+aFnan
+ag1049
+ag1061
+aFnan
+ag1025
+ag1071
+ag1031
+ag1069
+ag1069
+ag1029
+ag1061
+ag1061
+ag1023
+ag1039
+ag1045
+ag1061
+ag1026
+aFnan
+aFnan
+aS'Gaz'
+p1081
+ag1024
+ag1080
+ag1033
+ag1053
+ag1053
+ag1028
+ag1054
+aFnan
+ag1031
+ag1063
+ag1064
+ag1024
+ag1025
+ag1025
+ag1039
+ag1071
+ag1034
+ag1029
+aFnan
+ag1063
+ag1041
+ag1032
+ag1064
+ag1054
+ag1057
+ag1035
+aFnan
+ag1077
+ag1077
+ag1038
+aFnan
+ag1045
+ag1072
+ag1033
+ag1033
+ag1079
+ag1079
+ag1058
+aFnan
+ag1031
+aFnan
+ag1057
+ag1026
+ag1068
+ag1064
+aFnan
+ag1039
+aFnan
+ag1044
+aFnan
+aS'Produits issus du papier et de'
+p1082
+ag1052
+ag1036
+aFnan
+ag1034
+ag1067
+ag1060
+aFnan
+ag1041
+aFnan
+ag1042
+ag1042
+ag1026
+aFnan
+ag1049
+aFnan
+aFnan
+aFnan
+ag1037
+ag1064
+aFnan
+ag1048
+aFnan
+aFnan
+ag1050
+ag1027
+ag1035
+ag1055
+ag1026
+ag1034
+ag1067
+ag1059
+ag1045
+ag1074
+ag1080
+ag1058
+ag1034
+ag1028
+ag1073
+ag1064
+ag1080
+ag1026
+ag1056
+aFnan
+ag1057
+aFnan
+ag1067
+ag1034
+ag1034
+ag1024
+aFnan
+ag1072
+ag1072
+ag1038
+ag1028
+ag1068
+ag1055
+ag1026
+ag1025
+ag1037
+ag1034
+ag1029
+ag1034
+ag1080
+ag1031
+ag1045
+ag1028
+aFnan
+ag1040
+ag1037
+ag1068
+ag1045
+aFnan
+ag1080
+ag1055
+ag1026
+ag1045
+ag1070
+ag1070
+aFnan
+ag1067
+ag1053
+ag1058
+ag1035
+ag1032
+ag1064
+ag1035
+ag1044
+ag1072
+ag1039
+ag1042
+ag1072
+ag1072
+ag1064
+ag1025
+ag1025
+ag1032
+ag1032
+ag1032
+ag1034
+ag1029
+ag1028
+aFnan
+aS'Materiel technologique, stock'
+p1083
+ag1078
+ag1078
+aFnan
+ag1030
+ag1026
+aFnan
+ag1057
+ag1080
+ag1061
+ag1040
+ag1025
+ag1035
+ag1070
+ag1070
+ag1045
+ag1039
+ag1050
+ag1034
+ag1040
+ag1077
+ag1069
+ag1039
+ag1035
+ag1045
+ag1080
+ag1044
+ag1032
+ag1067
+ag1080
+ag1051
+ag1071
+ag1026
+ag1028
+ag1062
+ag1028
+ag1028
+ag1082
+ag1061
+ag1034
+ag1057
+ag1030
+ag1037
+ag1028
+aFnan
+ag1029
+ag1028
+ag1029
+ag1044
+ag1039
+aFnan
+aFnan
+ag1034
+ag1083
+ag1032
+ag1032
+ag1061
+aFnan
+ag1076
+ag1027
+ag1035
+ag1029
+aFnan
+ag1072
+ag1030
+ag1039
+ag1063
+ag1060
+ag1063
+ag1046
+ag1028
+ag1057
+ag1057
+ag1057
+ag1071
+ag1082
+aFnan
+aFnan
+ag1026
+ag1050
+ag1026
+ag1051
+ag1025
+ag1067
+ag1067
+aFnan
+ag1025
+aFnan
+ag1045
+ag1036
+aFnan
+ag1039
+ag1061
+aFnan
+ag1035
+ag1022
+ag1067
+ag1032
+aFnan
+ag1057
+ag1049
+ag1030
+ag1029
+ag1038
+ag1065
+ag1080
+ag1071
+ag1023
+aS'Credit a la consommation'
+p1084
+ag1058
+ag1026
+ag1026
+ag1023
+ag1063
+ag1067
+aFnan
+ag1032
+ag1034
+ag1040
+ag1066
+aFnan
+ag1080
+aFnan
+ag1034
+ag1035
+ag1049
+ag1067
+ag1023
+ag1028
+ag1039
+ag1030
+ag1028
+ag1060
+ag1028
+ag1055
+ag1039
+ag1028
+ag1035
+ag1040
+ag1050
+ag1078
+aFnan
+ag1065
+ag1038
+ag1026
+ag1079
+ag1034
+ag1034
+aFnan
+ag1038
+ag1033
+aFnan
+ag1061
+ag1061
+ag1057
+ag1050
+ag1049
+ag1038
+ag1038
+ag1061
+ag1062
+ag1080
+ag1072
+ag1073
+ag1033
+ag1045
+ag1023
+ag1029
+aFnan
+ag1066
+ag1040
+ag1035
+ag1065
+ag1053
+ag1057
+ag1057
+ag1044
+ag1029
+ag1028
+ag1039
+ag1024
+ag1029
+aFnan
+ag1027
+ag1027
+ag1041
+ag1042
+ag1028
+ag1033
+ag1034
+ag1044
+ag1039
+ag1057
+ag1034
+ag1045
+ag1077
+ag1042
+ag1023
+ag1037
+aFnan
+ag1082
+aFnan
+ag1028
+ag1028
+ag1045
+ag1045
+ag1045
+ag1067
+ag1067
+ag1039
+ag1039
+aFnan
+ag1045
+ag1036
+ag1025
+aFnan
+aFnan
+ag1026
+ag1023
+ag1034
+ag1024
+aFnan
+ag1028
+ag1027
+ag1024
+ag1067
+ag1076
+aFnan
+ag1077
+ag1053
+ag1030
+ag1064
+ag1038
+ag1038
+ag1071
+ag1034
+aFnan
+ag1054
+ag1073
+ag1068
+aFnan
+ag1025
+ag1025
+ag1060
+ag1036
+ag1045
+ag1062
+ag1028
+ag1028
+ag1080
+ag1039
+ag1039
+aFnan
+ag1073
+ag1063
+aFnan
+ag1070
+ag1025
+ag1037
+ag1082
+ag1063
+ag1063
+ag1068
+aFnan
+ag1023
+ag1023
+ag1028
+ag1055
+ag1055
+aFnan
+aFnan
+ag1039
+ag1039
+ag1061
+ag1024
+ag1061
+ag1029
+ag1029
+ag1049
+aFnan
+ag1034
+ag1039
+ag1082
+ag1026
+ag1061
+ag1050
+ag1063
+ag1036
+ag1030
+ag1023
+ag1045
+ag1045
+aS'Services aux collectivites en'
+p1085
+ag1035
+ag1034
+ag1059
+ag1050
+ag1025
+ag1034
+ag1025
+ag1025
+aFnan
+aFnan
+ag1029
+ag1032
+aFnan
+aFnan
+ag1032
+ag1026
+ag1035
+ag1028
+ag1067
+ag1023
+ag1067
+ag1067
+ag1067
+ag1067
+aFnan
+ag1023
+ag1028
+ag1023
+ag1048
+aFnan
+ag1067
+ag1067
+ag1072
+ag1067
+ag1067
+ag1029
+ag1028
+aFnan
+aFnan
+ag1061
+ag1028
+ag1028
+ag1028
+ag1066
+ag1024
+ag1060
+aFnan
+ag1039
+ag1061
+ag1037
+ag1034
+aFnan
+ag1041
+aFnan
+ag1045
+aFnan
+ag1049
+ag1039
+ag1037
+ag1035
+ag1035
+ag1035
+ag1060
+ag1077
+ag1034
+ag1028
+ag1026
+ag1026
+ag1026
+ag1057
+ag1034
+ag1065
+ag1040
+ag1040
+ag1040
+ag1040
+ag1064
+ag1064
+ag1022
+ag1025
+ag1075
+ag1022
+aFnan
+ag1039
+ag1039
+ag1082
+ag1053
+ag1039
+ag1056
+ag1085
+ag1085
+ag1068
+aFnan
+aFnan
+ag1029
+ag1049
+ag1027
+ag1057
+ag1057
+ag1039
+ag1028
+ag1023
+ag1055
+aFnan
+ag1067
+ag1029
+ag1045
+ag1045
+ag1065
+ag1065
+ag1061
+ag1045
+ag1030
+ag1025
+ag1063
+ag1048
+ag1045
+ag1023
+ag1064
+ag1072
+ag1055
+ag1083
+ag1038
+aFnan
+ag1035
+aFnan
+ag1048
+ag1028
+ag1045
+ag1035
+aFnan
+aFnan
+ag1025
+ag1036
+ag1052
+ag1044
+ag1054
+ag1067
+ag1045
+ag1039
+ag1039
+aS'BRITAIN'
+p1086
+ag1086
+aS'LUXEMBOURG'
+p1087
+aS'IRELAND'
+p1088
+aS'ITALY'
+p1089
+ag1086
+aS'GERMANY'
+p1090
+ag1086
+aS'SPAIN'
+p1091
+ag1086
+aS'NETHERLANDS'
+p1092
+ag1091
+ag1090
+aS'SWEDEN'
+p1093
+aS'DENMARK'
+p1094
+ag1086
+ag1091
+aS'NORWAY'
+p1095
+ag1089
+ag1091
+ag1086
+ag1086
+aS'SWITZERLAND'
+p1096
+ag1096
+ag1091
+ag1086
+aS'BELGIUM'
+p1097
+ag1092
+ag1086
+aS'FRANCE'
+p1098
+ag1098
+ag1089
+ag1091
+ag1091
+ag1092
+ag1096
+ag1096
+ag1086
+ag1086
+ag1098
+ag1090
+ag1091
+ag1088
+ag1098
+ag1097
+ag1086
+ag1089
+ag1092
+ag1097
+ag1086
+ag1091
+ag1086
+ag1098
+ag1088
+ag1098
+ag1095
+ag1098
+ag1095
+ag1092
+ag1089
+ag1086
+ag1093
+ag1098
+aS'GREECE'
+p1099
+ag1098
+ag1090
+ag1091
+ag1098
+ag1090
+ag1098
+aS'FINLAND'
+p1100
+ag1086
+ag1091
+ag1098
+ag1091
+aS'AUSTRIA'
+p1101
+ag1088
+aS'CHILE'
+p1102
+ag1086
+ag1090
+ag1098
+ag1096
+ag1096
+ag1086
+ag1098
+ag1092
+ag1093
+ag1092
+ag1092
+ag1093
+ag1093
+ag1087
+ag1089
+ag1096
+ag1096
+ag1098
+ag1092
+ag1086
+ag1086
+ag1086
+ag1086
+ag1093
+ag1086
+ag1090
+ag1086
+ag1086
+ag1086
+ag1101
+ag1096
+ag1096
+ag1096
+ag1096
+ag1097
+ag1086
+ag1096
+ag1090
+ag1086
+ag1090
+ag1098
+ag1086
+ag1091
+ag1086
+aS'PORTUGAL'
+p1103
+ag1096
+ag1086
+ag1090
+ag1097
+ag1089
+ag1103
+ag1089
+ag1086
+ag1086
+ag1086
+ag1093
+ag1098
+ag1099
+ag1088
+ag1086
+ag1091
+ag1091
+ag1096
+ag1086
+aS'AUSTRALIA'
+p1104
+ag1089
+ag1090
+ag1090
+ag1098
+ag1089
+ag1098
+ag1090
+ag1086
+ag1094
+ag1098
+aS'CYPRUS'
+p1105
+ag1086
+ag1092
+ag1098
+ag1093
+ag1090
+ag1089
+ag1086
+ag1086
+ag1103
+aS'GIBRALTAR'
+p1106
+ag1089
+ag1086
+ag1103
+ag1086
+ag1086
+ag1101
+ag1089
+ag1091
+ag1098
+ag1086
+ag1101
+ag1086
+ag1086
+ag1098
+ag1091
+ag1098
+ag1089
+ag1093
+ag1093
+ag1094
+ag1093
+ag1086
+ag1090
+ag1086
+ag1086
+ag1086
+ag1096
+aS'UNITED STATES'
+p1107
+ag1098
+ag1090
+ag1096
+ag1096
+ag1100
+ag1098
+ag1094
+ag1088
+ag1096
+ag1096
+ag1096
+ag1090
+ag1097
+ag1086
+ag1086
+ag1086
+ag1098
+ag1098
+ag1086
+ag1094
+ag1097
+ag1094
+ag1097
+ag1090
+ag1092
+ag1099
+ag1086
+ag1086
+ag1089
+ag1103
+ag1086
+ag1089
+ag1088
+ag1098
+ag1086
+ag1096
+ag1096
+ag1086
+ag1086
+ag1086
+ag1086
+ag1086
+ag1086
+ag1107
+ag1092
+ag1090
+ag1094
+ag1090
+ag1090
+ag1090
+ag1086
+ag1088
+ag1088
+ag1094
+ag1092
+ag1098
+ag1097
+ag1097
+ag1098
+ag1086
+ag1091
+ag1097
+ag1092
+ag1086
+ag1086
+ag1086
+ag1095
+ag1095
+ag1090
+ag1090
+ag1090
+ag1090
+ag1086
+ag1086
+ag1092
+ag1094
+ag1098
+ag1090
+ag1096
+ag1096
+ag1090
+ag1086
+ag1091
+ag1101
+ag1086
+ag1098
+ag1098
+ag1089
+ag1103
+ag1091
+ag1099
+ag1096
+ag1089
+ag1098
+ag1086
+ag1093
+ag1091
+ag1097
+ag1100
+ag1099
+ag1088
+ag1099
+ag1093
+ag1086
+ag1086
+ag1086
+ag1096
+ag1098
+ag1089
+ag1091
+ag1098
+ag1089
+ag1086
+ag1093
+ag1098
+ag1090
+ag1090
+ag1098
+ag1087
+ag1093
+ag1088
+ag1093
+aS'MAURITIUS'
+p1108
+ag1099
+ag1098
+ag1097
+ag1099
+ag1090
+aS'RUSSIA'
+p1109
+ag1099
+ag1086
+ag1092
+ag1089
+ag1086
+ag1086
+ag1089
+ag1093
+ag1091
+ag1086
+ag1091
+ag1086
+ag1089
+ag1098
+ag1091
+ag1096
+ag1099
+ag1088
+ag1086
+ag1098
+ag1089
+ag1086
+aS'GUERNSEY'
+p1110
+ag1094
+ag1101
+ag1090
+ag1090
+ag1099
+ag1100
+ag1098
+ag1086
+ag1090
+ag1098
+ag1090
+ag1090
+ag1090
+aS'MEXICO'
+p1111
+ag1095
+ag1095
+ag1092
+ag1089
+ag1090
+ag1103
+ag1096
+ag1093
+ag1093
+ag1091
+ag1090
+ag1097
+ag1088
+ag1096
+ag1096
+ag1089
+ag1094
+ag1099
+ag1098
+ag1093
+ag1098
+ag1086
+ag1096
+ag1096
+ag1095
+ag1086
+ag1098
+ag1096
+ag1086
+ag1094
+ag1088
+ag1088
+ag1086
+ag1091
+ag1086
+ag1089
+ag1092
+ag1092
+ag1092
+ag1086
+ag1086
+ag1090
+ag1090
+ag1092
+ag1092
+ag1090
+ag1090
+ag1093
+ag1092
+ag1090
+ag1086
+aS'JORDAN'
+p1112
+ag1086
+ag1093
+ag1086
+ag1086
+ag1090
+ag1086
+ag1098
+ag1093
+ag1093
+ag1086
+ag1090
+ag1090
+ag1086
+ag1099
+ag1093
+ag1090
+ag1086
+ag1099
+ag1086
+ag1086
+ag1086
+ag1088
+ag1091
+ag1091
+ag1091
+ag1098
+ag1093
+ag1098
+ag1086
+ag1091
+ag1101
+ag1089
+ag1090
+ag1090
+ag1086
+ag1101
+ag1086
+ag1088
+ag1098
+ag1086
+ag1086
+ag1086
+ag1093
+ag1098
+ag1092
+ag1088
+ag1099
+ag1086
+ag1093
+aS'SOUTH AFRICA'
+p1113
+ag1089
+ag1086
+ag1098
+ag1086
+ag1086
+ag1089
+ag1089
+ag1094
+ag1086
+ag1089
+ag1089
+ag1086
+ag1086
+ag1091
+ag1090
+ag1107
+ag1086
+ag1103
+ag1094
+ag1086
+ag1097
+ag1097
+ag1094
+ag1100
+ag1090
+ag1086
+ag1098
+ag1100
+ag1086
+ag1090
+ag1086
+ag1093
+ag1093
+ag1098
+ag1100
+ag1096
+ag1096
+ag1100
+ag1092
+ag1088
+ag1096
+ag1096
+ag1088
+ag1086
+ag1086
+ag1089
+ag1098
+ag1086
+ag1090
+ag1096
+ag1096
+ag1098
+ag1090
+ag1090
+ag1096
+ag1096
+ag1096
+ag1086
+ag1113
+ag1098
+ag1086
+ag1096
+ag1096
+ag1096
+ag1087
+ag1098
+ag1086
+ag1089
+ag1094
+ag1093
+ag1093
+ag1089
+ag1090
+ag1086
+ag1094
+ag1094
+ag1090
+ag1091
+ag1096
+ag1089
+ag1098
+ag1086
+ag1113
+ag1089
+ag1086
+ag1100
+ag1098
+ag1086
+ag1095
+ag1087
+ag1099
+ag1086
+ag1098
+ag1090
+ag1098
+ag1101
+ag1098
+ag1089
+ag1113
+ag1099
+ag1089
+ag1090
+ag1086
+ag1086
+ag1089
+ag1086
+ag1087
+ag1093
+ag1087
+ag1090
+ag1090
+ag1091
+ag1097
+ag1093
+ag1098
+ag1096
+ag1096
+ag1100
+ag1098
+ag1086
+ag1086
+ag1091
+ag1095
+ag1093
+ag1098
+ag1094
+ag1092
+ag1096
+ag1093
+ag1096
+ag1100
+ag1103
+ag1096
+ag1096
+ag1094
+ag1100
+ag1095
+ag1089
+ag1092
+ag1086
+ag1092
+ag1092
+ag1086
+ag1094
+ag1090
+ag1097
+ag1092
+ag1092
+ag1095
+ag1096
+ag1099
+ag1097
+ag1086
+ag1101
+ag1093
+ag1099
+ag1098
+ag1098
+ag1095
+ag1100
+ag1100
+ag1094
+ag1090
+ag1100
+ag1086
+ag1090
+ag1096
+ag1089
+ag1086
+ag1086
+ag1086
+ag1096
+ag1096
+ag1095
+ag1092
+ag1103
+ag1086
+ag1089
+ag1089
+ag1094
+ag1092
+ag1086
+ag1100
+ag1100
+ag1091
+ag1088
+ag1099
+ag1097
+ag1095
+ag1091
+ag1086
+ag1089
+ag1090
+ag1086
+ag1086
+ag1096
+ag1089
+ag1098
+ag1086
+ag1090
+ag1090
+ag1092
+ag1089
+ag1089
+ag1092
+ag1093
+ag1086
+ag1101
+ag1086
+ag1092
+ag1098
+ag1098
+ag1092
+ag1092
+ag1092
+ag1089
+ag1107
+ag1091
+ag1086
+ag1086
+ag1091
+ag1086
+ag1098
+ag1101
+ag1090
+ag1098
+ag1096
+ag1096
+ag1086
+ag1086
+ag1086
+ag1098
+ag1086
+ag1098
+ag1094
+ag1096
+ag1096
+ag1086
+aS'JERSEY'
+p1114
+ag1087
+ag1086
+ag1086
+ag1100
+ag1096
+ag1090
+ag1090
+ag1098
+ag1088
+ag1100
+ag1086
+ag1091
+ag1098
+ag1100
+ag1098
+ag1091
+ag1093
+ag1090
+ag1093
+ag1092
+ag1086
+ag1086
+ag1093
+ag1090
+ag1095
+ag1095
+ag1096
+ag1096
+ag1096
+ag1096
+ag1096
+ag1098
+ag1098
+ag1086
+ag1093
+ag1091
+ag1090
+ag1093
+ag1093
+ag1086
+ag1086
+ag1093
+ag1093
+ag1096
+ag1087
+ag1098
+ag1094
+ag1098
+ag1086
+ag1091
+ag1086
+ag1098
+ag1091
+ag1086
+ag1096
+ag1096
+ag1090
+ag1093
+ag1086
+ag1107
+ag1090
+ag1107
+ag1096
+ag1096
+ag1096
+ag1098
+ag1093
+ag1093
+ag1088
+ag1086
+ag1090
+ag1086
+ag1096
+ag1096
+ag1095
+ag1086
+ag1086
+ag1098
+ag1086
+ag1097
+ag1103
+ag1103
+ag1096
+ag1096
+ag1086
+ag1089
+ag1089
+ag1089
+ag1090
+ag1096
+ag1096
+ag1086
+ag1092
+ag1096
+ag1096
+ag1089
+ag1086
+ag1089
+ag1093
+ag1093
+ag1086
+ag1086
+ag1086
+ag1095
+ag1100
+ag1086
+ag1095
+ag1096
+ag1096
+ag1101
+ag1098
+ag1086
+ag1096
+ag1096
+ag1086
+ag1098
+ag1093
+ag1093
+ag1090
+ag1090
+ag1094
+ag1096
+ag1096
+ag1107
+ag1098
+ag1090
+ag1090
+ag1095
+ag1095
+ag1086
+ag1086
+ag1086
+ag1098
+ag1094
+ag1098
+ag1091
+ag1095
+ag1093
+ag1093
+ag1099
+ag1087
+ag1098
+ag1095
+ag1100
+ag1089
+ag1089
+ag1089
+ag1099
+ag1089
+ag1101
+ag1090
+ag1091
+ag1086
+ag1093
+ag1086
+ag1089
+ag1097
+ag1086
+ag1092
+ag1095
+ag1092
+ag1086
+ag1094
+ag1094
+ag1088
+ag1099
+ag1091
+ag1086
+ag1095
+ag1093
+ag1086
+ag1089
+ag1094
+ag1086
+ag1086
+ag1090
+ag1090
+ag1086
+ag1098
+ag1089
+ag1086
+ag1096
+ag1096
+ag1096
+ag1097
+ag1089
+ag1098
+ag1096
+ag1096
+ag1096
+ag1096
+ag1098
+ag1098
+ag1086
+ag1097
+ag1090
+ag1086
+ag1091
+ag1089
+ag1089
+ag1100
+ag1100
+ag1089
+ag1090
+ag1086
+ag1086
+ag1096
+ag1101
+ag1092
+aS'INDIA'
+p1115
+ag1101
+ag1098
+ag1096
+ag1096
+ag1101
+ag1098
+ag1098
+ag1090
+ag1092
+ag1086
+ag1101
+ag1093
+ag1093
+ag1090
+ag1090
+ag1092
+ag1086
+ag1094
+ag1090
+ag1094
+ag1090
+ag1086
+ag1086
+ag1092
+ag1101
+ag1093
+ag1090
+ag1092
+ag1093
+ag1086
+ag1086
+ag1086
+ag1086
+ag1100
+ag1086
+ag1088
+ag1096
+ag1095
+ag1100
+ag1090
+ag1098
+ag1091
+ag1092
+ag1091
+ag1096
+ag1096
+atp1116
+ba(lp1117
+g15
+(g16
+(dp1118
+g18
+g19
+(g20
+(I0
+tp1119
+g22
+tp1120
+Rp1121
+(I1
+(L4L
+tp1122
+g29
+I00
+(lp1123
+g33
+ag34
+ag35
+ag36
+atp1124
+bsg38
+Nstp1125
+Rp1126
+a(dp1127
+S'0.14.1'
+p1128
+(dp1129
+S'axes'
+p1130
+g14
+sS'blocks'
+p1131
+(lp1132
+(dp1133
+S'mgr_locs'
+p1134
+c__builtin__
+slice
+p1135
+(I0
+I4
+L1L
+tp1136
+Rp1137
+sS'values'
+p1138
+g1008
+sasstp1139
+bsb.

@@ -1,0 +1,683 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'_metadata'
+p6
+(lp7
+sS'_typ'
+p8
+S'dataframe'
+p9
+sS'_data'
+p10
+g0
+(cpandas.core.internals
+BlockManager
+p11
+g2
+Ntp12
+Rp13
+((lp14
+cpandas.core.indexes.base
+_new_Index
+p15
+(cpandas.core.indexes.base
+Index
+p16
+(dp17
+S'data'
+p18
+cnumpy.core.multiarray
+_reconstruct
+p19
+(cnumpy
+ndarray
+p20
+(I0
+tp21
+S'b'
+p22
+tp23
+Rp24
+(I1
+(I4
+tp25
+cnumpy
+dtype
+p26
+(S'O8'
+p27
+I0
+I1
+tp28
+Rp29
+(I3
+S'|'
+p30
+NNNI-1
+I-1
+I63
+tp31
+bI00
+(lp32
+S'Ticker'
+p33
+aS'GICS_SECTOR_NAME'
+p34
+aS'GICS_INDUSTRY_NAME'
+p35
+aS'COUNTRY_FULL_NAME'
+p36
+atp37
+bsS'name'
+p38
+Nstp39
+Rp40
+ag15
+(g16
+(dp41
+g18
+g19
+(g20
+(I0
+tp42
+g22
+tp43
+Rp44
+(I1
+(I76
+tp45
+g29
+I00
+(lp46
+S'3577044Z NA Equity'
+p47
+aS'63DU GY Equity'
+p48
+aS'ABI BB Equity'
+p49
+aS'ACA FP Equity'
+p50
+aS'AD NA Equity'
+p51
+aS'ADS GY Equity'
+p52
+aS'AGN NA Equity'
+p53
+aS'AGS BB Equity'
+p54
+aS'AI FP Equity'
+p55
+aS'AIBG ID Equity'
+p56
+aS'AIR FP Equity'
+p57
+aS'ALO FP Equity'
+p58
+aS'ALU FP Equity'
+p59
+aS'ALV GY Equity'
+p60
+aS'APAM NA Equity'
+p61
+aS'ASML NA Equity'
+p62
+aS'BAS GY Equity'
+p63
+aS'BAYN GY Equity'
+p64
+aS'BBVA SQ Equity'
+p65
+aS'BMW GY Equity'
+p66
+aS'BN FP Equity'
+p67
+aS'BNP FP Equity'
+p68
+aS'CA FP Equity'
+p69
+aS'CRH ID Equity'
+p70
+aS'CS FP Equity'
+p71
+aS'DAI GY Equity'
+p72
+aS'DB1 GY Equity'
+p73
+aS'DBK GY Equity'
+p74
+aS'DG FP Equity'
+p75
+aS'DPW GY Equity'
+p76
+aS'DTE GY Equity'
+p77
+aS'EI FP Equity'
+p78
+aS'ELE SQ Equity'
+p79
+aS'ENEL IM Equity'
+p80
+aS'ENGI FP Equity'
+p81
+aS'ENI IM Equity'
+p82
+aS'EOAN GY Equity'
+p83
+aS'FORA NA Equity'
+p84
+aS'FP FP Equity'
+p85
+aS'FRE GY Equity'
+p86
+aS'G IM Equity'
+p87
+aS'GLE FP Equity'
+p88
+aS'IBE SQ Equity'
+p89
+aS'INGA NA Equity'
+p90
+aS'ISP IM Equity'
+p91
+aS'ITX SQ Equity'
+p92
+aS'LG FP Equity'
+p93
+aS'MC FP Equity'
+p94
+aS'MT NA Equity'
+p95
+aS'MTP FP Equity'
+p96
+aS'MUV2 GY Equity'
+p97
+aS'NOKIA FH Equity'
+p98
+aS'OR FP Equity'
+p99
+aS'ORA FP Equity'
+p100
+aS'PHIA NA Equity'
+p101
+aS'REP SQ Equity'
+p102
+aS'RNO FP Equity'
+p103
+aS'RWE GY Equity'
+p104
+aS'SAF FP Equity'
+p105
+aS'SAN FP Equity'
+p106
+aS'SAN SQ Equity'
+p107
+aS'SAP GY Equity'
+p108
+aS'SGO FP Equity'
+p109
+aS'SIE GY Equity'
+p110
+aS'SPI IM Equity'
+p111
+aS'SU FP Equity'
+p112
+aS'SZE FP Equity'
+p113
+aS'TEF SQ Equity'
+p114
+aS'TIT IM Equity'
+p115
+aS'UCG IM Equity'
+p116
+aS'UL FP Equity'
+p117
+aS'UL NA Equity'
+p118
+aS'UNA NA Equity'
+p119
+aS'VIV FP Equity'
+p120
+aS'VOW GY Equity'
+p121
+aS'VOW3 GY Equity'
+p122
+atp123
+bsg38
+g33
+stp124
+Rp125
+a(lp126
+g19
+(g20
+(I0
+tp127
+g22
+tp128
+Rp129
+(I1
+(I4
+I76
+tp130
+g29
+I00
+(lp131
+g47
+ag48
+ag49
+ag50
+ag51
+ag52
+ag53
+ag54
+ag55
+ag56
+ag57
+ag58
+ag59
+ag60
+ag61
+ag62
+ag63
+ag64
+ag65
+ag66
+ag67
+ag68
+ag69
+ag70
+ag71
+ag72
+ag73
+ag74
+ag75
+ag76
+ag77
+ag78
+ag79
+ag80
+ag81
+ag82
+ag83
+ag84
+ag85
+ag86
+ag87
+ag88
+ag89
+ag90
+ag91
+ag92
+ag93
+ag94
+ag95
+ag96
+ag97
+ag98
+ag99
+ag100
+ag101
+ag102
+ag103
+ag104
+ag105
+ag106
+ag107
+ag108
+ag109
+ag110
+ag111
+ag112
+ag113
+ag114
+ag115
+ag116
+ag117
+ag118
+ag119
+ag120
+ag121
+ag122
+aFnan
+aS'Finance'
+p132
+aS'Consommation de base'
+p133
+ag132
+ag133
+aS'Consommation discretionnaire'
+p134
+ag132
+ag132
+aS'Materiaux'
+p135
+ag132
+aS'Industrie'
+p136
+ag136
+aS"Technologies de l'information"
+p137
+ag132
+ag135
+ag137
+ag135
+aS'Soins de sante'
+p138
+ag132
+ag134
+ag133
+ag132
+ag133
+ag135
+ag132
+ag134
+ag132
+ag132
+ag136
+ag136
+aS'Services de telecommunicatio'
+p139
+ag138
+aS'Services aux collectivites'
+p140
+ag140
+ag140
+aS'Energie'
+p141
+ag140
+ag132
+ag141
+ag138
+ag132
+ag132
+ag140
+ag132
+ag132
+ag134
+ag135
+ag134
+ag135
+ag135
+ag132
+ag137
+ag133
+ag139
+ag138
+ag141
+ag134
+ag140
+ag136
+ag138
+ag132
+ag137
+ag136
+ag136
+aFnan
+ag136
+aFnan
+ag139
+ag139
+ag132
+aS'Immobilier'
+p142
+ag142
+ag133
+ag134
+ag134
+ag134
+aFnan
+aS'Marches de capitaux'
+p143
+aS'Boissons'
+p144
+aS'Banques'
+p145
+aS'Vente au detail de produits a'
+p146
+aS'Textiles, habillement et produ'
+p147
+aS'Assurance'
+p148
+ag148
+aS'Produits chimiques'
+p149
+ag145
+aS'Aerospatiale et defense'
+p150
+aS'Machinerie'
+p151
+aS'Equipement de communication'
+p152
+ag148
+aS'Metaux et mines'
+p153
+aS'Semi-conducteurs et equipemen'
+p154
+ag149
+aS'Produits pharmaceutiques'
+p155
+ag145
+aS'Automobiles'
+p156
+aS'Produits alimentaires'
+p157
+ag145
+ag146
+aS'Materiaux de construction'
+p158
+ag148
+ag156
+ag143
+ag143
+aS'Construction et ingenierie'
+p159
+aS'Fret aerien et logistique'
+p160
+aS'Services de telecommunicatio'
+p161
+aS'Fournitures et equipements m'
+p162
+aS'Electricite'
+p163
+ag163
+aS'Compagnies aux activites dive'
+p164
+aS'Petrole, gaz et combustibles'
+p165
+ag164
+ag148
+ag165
+aS'Fournisseurs de produits de sa'
+p166
+ag148
+ag145
+ag163
+ag145
+ag145
+aS'Vente au detail specialisee'
+p167
+ag158
+ag147
+ag153
+ag153
+ag148
+ag152
+aS'Produits de soin personnel'
+p168
+ag161
+ag162
+ag165
+ag156
+ag164
+ag150
+ag155
+ag145
+aS'Logiciels'
+p169
+aS"Produits pour l'industrie du b"
+p170
+aS'Conglomerats industriels'
+p171
+aFnan
+aS'Materiel electrique'
+p172
+aFnan
+ag161
+ag161
+ag145
+aS"Societe d'investissement imm"
+p173
+ag173
+ag168
+aS'Medias'
+p174
+ag156
+ag156
+aS'NETHERLANDS'
+p175
+aS'GERMANY'
+p176
+aS'BELGIUM'
+p177
+aS'FRANCE'
+p178
+ag175
+ag176
+ag175
+ag177
+ag178
+aS'IRELAND'
+p179
+ag178
+ag178
+ag178
+ag176
+aS'LUXEMBOURG'
+p180
+ag175
+ag176
+ag176
+aS'SPAIN'
+p181
+ag176
+ag178
+ag178
+ag178
+ag179
+ag178
+ag176
+ag176
+ag176
+ag178
+ag176
+ag176
+ag178
+ag181
+aS'ITALY'
+p182
+ag178
+ag182
+ag176
+ag177
+ag178
+ag176
+ag182
+ag178
+ag181
+ag175
+ag182
+ag181
+ag178
+ag178
+ag180
+ag180
+ag176
+aS'FINLAND'
+p183
+ag178
+ag178
+ag175
+ag181
+ag178
+ag176
+ag178
+ag178
+ag181
+ag176
+ag178
+ag176
+ag182
+ag178
+ag178
+ag181
+ag182
+ag182
+ag178
+ag178
+aS'BRITAIN'
+p184
+ag178
+ag176
+ag176
+atp185
+ba(lp186
+g15
+(g16
+(dp187
+g18
+g19
+(g20
+(I0
+tp188
+g22
+tp189
+Rp190
+(I1
+(I4
+tp191
+g29
+I00
+(lp192
+g33
+ag34
+ag35
+ag36
+atp193
+bsg38
+Nstp194
+Rp195
+a(dp196
+S'0.14.1'
+p197
+(dp198
+S'axes'
+p199
+g14
+sS'blocks'
+p200
+(lp201
+(dp202
+S'mgr_locs'
+p203
+c__builtin__
+slice
+p204
+(I0
+I4
+I1
+tp205
+Rp206
+sS'values'
+p207
+g129
+sasstp208
+bsb.
